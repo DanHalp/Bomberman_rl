@@ -1,0 +1,99 @@
+2019-02-22 19:15:01,261 [Lord_Voldemort_1_wrapper] INFO: Import agent code from "agent_code/Lord_Voldemort/callbacks.py"
+2019-02-22 19:15:01,268 [Lord_Voldemort_1_wrapper] INFO: Initialize agent code
+2019-02-22 19:15:01,274 [Lord_Voldemort_1_wrapper] INFO: STARTING ROUND #1
+2019-02-22 19:15:01,375 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 1
+2019-02-22 19:15:01,375 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,378 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-02-22 19:15:01,478 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 2
+2019-02-22 19:15:01,480 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,480 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:01,579 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 3
+2019-02-22 19:15:01,579 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,579 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:01,681 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 4
+2019-02-22 19:15:01,681 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,681 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:01,783 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 5
+2019-02-22 19:15:01,783 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,783 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:01,885 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 6
+2019-02-22 19:15:01,885 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,885 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:01,987 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 7
+2019-02-22 19:15:01,987 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:01,988 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 19:15:02,088 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 8
+2019-02-22 19:15:02,088 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,088 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,190 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 9
+2019-02-22 19:15:02,190 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,190 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,298 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 10
+2019-02-22 19:15:02,298 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,298 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,394 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 11
+2019-02-22 19:15:02,394 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,394 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,496 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 12
+2019-02-22 19:15:02,496 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,496 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,598 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 13
+2019-02-22 19:15:02,598 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,599 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 19:15:02,701 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 14
+2019-02-22 19:15:02,701 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,701 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,803 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 15
+2019-02-22 19:15:02,803 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,803 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:02,904 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 16
+2019-02-22 19:15:02,904 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:02,904 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,005 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 17
+2019-02-22 19:15:03,005 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,006 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 19:15:03,108 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 18
+2019-02-22 19:15:03,109 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,109 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,209 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 19
+2019-02-22 19:15:03,209 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,209 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,311 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 20
+2019-02-22 19:15:03,311 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,313 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-02-22 19:15:03,413 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 21
+2019-02-22 19:15:03,413 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,413 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,514 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 22
+2019-02-22 19:15:03,514 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,514 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,618 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 23
+2019-02-22 19:15:03,619 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,619 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,720 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 24
+2019-02-22 19:15:03,720 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,720 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,822 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 25
+2019-02-22 19:15:03,822 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,822 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:03,925 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 26
+2019-02-22 19:15:03,925 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:03,925 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:04,028 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 27
+2019-02-22 19:15:04,029 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:04,029 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:04,129 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 28
+2019-02-22 19:15:04,130 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:04,130 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:04,231 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 29
+2019-02-22 19:15:04,231 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:04,232 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 19:15:04,333 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 30
+2019-02-22 19:15:04,333 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:04,334 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 19:15:04,435 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 31
+2019-02-22 19:15:04,435 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:04,435 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 19:15:04,537 [Lord_Voldemort_1_wrapper] INFO: STARTING STEP 32
+2019-02-22 19:15:04,537 [Lord_Voldemort_1_code] INFO: Pick action according to pressed key
+2019-02-22 19:15:04,537 [Lord_Voldemort_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking

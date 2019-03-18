@@ -1,0 +1,70 @@
+2019-02-14 16:11:35,889 [random_agent_wrapper] INFO: Import agent code from "agent_code/random_agent/callbacks.py"
+2019-02-14 16:11:35,894 [random_agent_wrapper] INFO: Initialize agent code
+2019-02-14 16:11:35,905 [random_agent_wrapper] INFO: STARTING ROUND #1
+2019-02-14 16:11:41,904 [random_agent_wrapper] INFO: STARTING STEP 1
+2019-02-14 16:11:41,906 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:41,907 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:41,914 [random_agent_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-02-14 16:11:42,009 [random_agent_wrapper] INFO: STARTING STEP 2
+2019-02-14 16:11:42,010 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:42,011 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:42,013 [random_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-14 16:11:42,117 [random_agent_wrapper] INFO: STARTING STEP 3
+2019-02-14 16:11:42,118 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:42,120 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:42,122 [random_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-14 16:11:42,211 [random_agent_wrapper] INFO: STARTING STEP 4
+2019-02-14 16:11:42,213 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:42,214 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:42,215 [random_agent_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-14 16:11:42,311 [random_agent_wrapper] INFO: STARTING STEP 5
+2019-02-14 16:11:42,313 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:42,314 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:42,316 [random_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-02-14 16:11:42,413 [random_agent_wrapper] INFO: STARTING STEP 6
+2019-02-14 16:11:42,415 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:42,417 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:42,419 [random_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-14 16:11:42,519 [random_agent_wrapper] INFO: STARTING STEP 7
+2019-02-14 16:11:42,522 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:42,523 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:42,525 [random_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-14 16:11:42,562 [random_agent_wrapper] INFO: Received exit message for round
+2019-02-14 16:11:42,564 [random_agent_wrapper] INFO: Finalize agent's training
+2019-02-14 16:11:42,678 [random_agent_wrapper] INFO: Round #1 finished
+2019-02-14 16:11:56,441 [random_agent_wrapper] INFO: STARTING ROUND #2
+2019-02-14 16:11:56,490 [random_agent_wrapper] INFO: STARTING STEP 1
+2019-02-14 16:11:56,490 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:56,491 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:56,491 [random_agent_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-14 16:11:56,597 [random_agent_wrapper] INFO: STARTING STEP 2
+2019-02-14 16:11:56,598 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:56,599 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:56,601 [random_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-02-14 16:11:56,701 [random_agent_wrapper] INFO: STARTING STEP 3
+2019-02-14 16:11:56,704 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:56,705 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:56,706 [random_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-02-14 16:11:56,800 [random_agent_wrapper] INFO: STARTING STEP 4
+2019-02-14 16:11:56,801 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:56,802 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:56,804 [random_agent_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-02-14 16:11:56,899 [random_agent_wrapper] INFO: STARTING STEP 5
+2019-02-14 16:11:56,901 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:56,902 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:56,903 [random_agent_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-02-14 16:11:57,002 [random_agent_wrapper] INFO: STARTING STEP 6
+2019-02-14 16:11:57,005 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:57,006 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:57,008 [random_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-14 16:11:57,103 [random_agent_wrapper] INFO: STARTING STEP 7
+2019-02-14 16:11:57,104 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:57,105 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:57,107 [random_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-14 16:11:57,204 [random_agent_wrapper] INFO: STARTING STEP 8
+2019-02-14 16:11:57,207 [random_agent_wrapper] INFO: Process intermediate rewards
+2019-02-14 16:11:57,208 [random_agent_code] INFO: Pick action at random
+2019-02-14 16:11:57,209 [random_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-02-14 16:11:57,237 [random_agent_wrapper] INFO: Received exit message for round
+2019-02-14 16:11:57,238 [random_agent_wrapper] INFO: Finalize agent's training
+2019-02-14 16:11:57,350 [random_agent_wrapper] INFO: Round #2 finished

@@ -1,0 +1,149 @@
+2019-02-22 00:50:51,640 [user_agent_wrapper] INFO: Import agent code from "agent_code/user_agent/callbacks.py"
+2019-02-22 00:50:51,644 [user_agent_wrapper] INFO: Initialize agent code
+2019-02-22 00:50:51,654 [user_agent_wrapper] INFO: STARTING ROUND #1
+2019-02-22 00:50:51,757 [user_agent_wrapper] INFO: STARTING STEP 1
+2019-02-22 00:50:51,757 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:51,758 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:51,758 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:51,859 [user_agent_wrapper] INFO: STARTING STEP 2
+2019-02-22 00:50:51,859 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:51,859 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:51,860 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:51,961 [user_agent_wrapper] INFO: STARTING STEP 3
+2019-02-22 00:50:51,961 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:51,962 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:51,962 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:52,061 [user_agent_wrapper] INFO: STARTING STEP 4
+2019-02-22 00:50:52,061 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,061 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,062 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,163 [user_agent_wrapper] INFO: STARTING STEP 5
+2019-02-22 00:50:52,163 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,163 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,164 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,282 [user_agent_wrapper] INFO: STARTING STEP 6
+2019-02-22 00:50:52,282 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,283 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,283 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:52,368 [user_agent_wrapper] INFO: STARTING STEP 7
+2019-02-22 00:50:52,368 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,368 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,369 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,475 [user_agent_wrapper] INFO: STARTING STEP 8
+2019-02-22 00:50:52,475 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,475 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,475 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:52,577 [user_agent_wrapper] INFO: STARTING STEP 9
+2019-02-22 00:50:52,577 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,577 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,578 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,680 [user_agent_wrapper] INFO: STARTING STEP 10
+2019-02-22 00:50:52,680 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,680 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,681 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,782 [user_agent_wrapper] INFO: STARTING STEP 11
+2019-02-22 00:50:52,782 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,782 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,783 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,884 [user_agent_wrapper] INFO: STARTING STEP 12
+2019-02-22 00:50:52,884 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,884 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,885 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:52,989 [user_agent_wrapper] INFO: STARTING STEP 13
+2019-02-22 00:50:52,989 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:52,990 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:52,990 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:53,090 [user_agent_wrapper] INFO: STARTING STEP 14
+2019-02-22 00:50:53,090 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,090 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,091 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,191 [user_agent_wrapper] INFO: STARTING STEP 15
+2019-02-22 00:50:53,191 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,191 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,192 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,294 [user_agent_wrapper] INFO: STARTING STEP 16
+2019-02-22 00:50:53,294 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,294 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,295 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,396 [user_agent_wrapper] INFO: STARTING STEP 17
+2019-02-22 00:50:53,396 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,396 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,397 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,504 [user_agent_wrapper] INFO: STARTING STEP 18
+2019-02-22 00:50:53,504 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,504 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,504 [user_agent_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-02-22 00:50:53,605 [user_agent_wrapper] INFO: STARTING STEP 19
+2019-02-22 00:50:53,605 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,605 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,606 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,706 [user_agent_wrapper] INFO: STARTING STEP 20
+2019-02-22 00:50:53,706 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,706 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,707 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,808 [user_agent_wrapper] INFO: STARTING STEP 21
+2019-02-22 00:50:53,808 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,809 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,809 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:53,911 [user_agent_wrapper] INFO: STARTING STEP 22
+2019-02-22 00:50:53,911 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:53,911 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:53,912 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:54,017 [user_agent_wrapper] INFO: STARTING STEP 23
+2019-02-22 00:50:54,017 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,017 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,017 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:54,119 [user_agent_wrapper] INFO: STARTING STEP 24
+2019-02-22 00:50:54,119 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,119 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,120 [user_agent_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-22 00:50:54,221 [user_agent_wrapper] INFO: STARTING STEP 25
+2019-02-22 00:50:54,221 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,221 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,222 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:54,323 [user_agent_wrapper] INFO: STARTING STEP 26
+2019-02-22 00:50:54,323 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,323 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,324 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:54,425 [user_agent_wrapper] INFO: STARTING STEP 27
+2019-02-22 00:50:54,425 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,425 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,426 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:54,531 [user_agent_wrapper] INFO: STARTING STEP 28
+2019-02-22 00:50:54,531 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,532 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,532 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:54,628 [user_agent_wrapper] INFO: STARTING STEP 29
+2019-02-22 00:50:54,628 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,628 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,629 [user_agent_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-02-22 00:50:54,730 [user_agent_wrapper] INFO: STARTING STEP 30
+2019-02-22 00:50:54,730 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,730 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,731 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:54,832 [user_agent_wrapper] INFO: STARTING STEP 31
+2019-02-22 00:50:54,832 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,832 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,833 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:54,935 [user_agent_wrapper] INFO: STARTING STEP 32
+2019-02-22 00:50:54,935 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:54,935 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:54,936 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:55,036 [user_agent_wrapper] INFO: STARTING STEP 33
+2019-02-22 00:50:55,036 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:55,036 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:55,037 [user_agent_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-02-22 00:50:55,140 [user_agent_wrapper] INFO: STARTING STEP 34
+2019-02-22 00:50:55,140 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:55,141 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:55,141 [user_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-02-22 00:50:55,241 [user_agent_wrapper] INFO: STARTING STEP 35
+2019-02-22 00:50:55,241 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:55,241 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:55,242 [user_agent_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-02-22 00:50:55,343 [user_agent_wrapper] INFO: STARTING STEP 36
+2019-02-22 00:50:55,343 [user_agent_wrapper] INFO: Process intermediate rewards
+2019-02-22 00:50:55,343 [user_agent_code] INFO: Pick action according to pressed key
+2019-02-22 00:50:55,344 [user_agent_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-02-22 00:50:55,446 [user_agent_wrapper] INFO: STARTING STEP 37
+2019-02-22 00:50:55,446 [user_agent_wrapper] INFO: Process intermediate rewards
