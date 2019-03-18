@@ -284,22 +284,16 @@ def act(agent):
     if agent.game_state["step"] == 1 and agent.radius is None:
         training_radius(agent) if s.crate_density == 0 else real_radius(agent)
     # First step: find the current state.
-    # Todo: For report, timings of finding a state.
-    start = time()
     agent.curr_state = find_state(agent)
-    end = time() - start
     # Second step:
     string = stateToStr(agent.curr_state)
 
-    if s.gui:
-        action = np.argmax(agent.q_table[string])
-    elif agent.train_flag:  # This flag is our own flag, that acknowledge us that this is training.
+    if agent.train_flag:  # This flag is our own flag, that acknowledge us that this is training.
         action_rewards = np.array(agent.q_table[string])
         if 0 in action_rewards:
-            # Todo - Write about that in paper.
+
             indices = np.where(action_rewards == 0)[0]
             action = np.random.choice(indices)
-
         #  Epsilon-Greedy Policy: After every game that is finished while training, we update our
         #  epslion, that is initially set to 1. After about 3000 games, it reaches the epsilon_min
         #  value. The point is, that we want the agent to play as it should, but still try random
@@ -314,8 +308,6 @@ def act(agent):
 
     # When not in training mode, we should use the pre-prepared Q table.
     else:
-        # Todo - For the paper, here we take all choices with the best score and choose randomly
-        # todo  - between them
         try:
             # The agent is sent to the fight after about 15,000 training games. But still,
             # it is possible for it to get into a state, which is not known to it - and in that case
