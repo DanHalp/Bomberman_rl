@@ -45,7 +45,7 @@ def main():
     #         ('simple_agent', False)
     #     ])
     world = BombeRLeWorld([
-            ('Lord_Voldemort', True),
+            ('Lord_Voldemort', False),
             ('simple_agent', False),
             ('simple_agent', False),
             ('simple_agent', False)

@@ -7,38 +7,34 @@ import logging
 
 settings = {
     # Display
-    # Todo::::::::::: Gui originally is True
     'width': 1000,
     'height': 600,
     'gui': True,
     'fps': 15,
 
     # Main loop
-    # Todo: Changed n_rounds from 10 (originally) to 3
     'update_interval': 0.1, # 0.33,
     'turn_based': False,
-    'n_rounds': 12000,
+    'n_rounds': 10,
     'save_replay': False,
     'make_video_from_replay': False,
 
     # Game properties
-    # Todo:::::: I change the create density from 0.75 to 0 for the first step
-    # Todo : max step originallywas 400
+
     'cols': 17,
     'rows': 17,
     'grid_size': 30,
-    'crate_density': 0.3,
+    'crate_density': 0.75,
     'actions': ['UP', 'DOWN', 'LEFT', 'RIGHT', 'BOMB', 'WAIT'],
     'max_agents': 4,
     'max_steps': 400,
-    'stop_if_not_training': True,
+    'stop_if_not_training': False,
     'bomb_power': 3,
     'bomb_timer': 4,
     'explosion_timer': 2,
 
     # Rules for agents
-    # TODO: I've change timeout from 5.0 to 50000000
-    'timeout': 500.0,
+    'timeout': 5.0,
     'reward_kill': 5,
     'reward_coin': 1,
     'reward_slow': -1,
