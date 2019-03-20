@@ -16,16 +16,16 @@ def write_dict_to_file(agent):
     """ In order to use a 'trained' agent, it is necessary to write it's Q_table into a file.
      For that we use the "JSON" method. Our Q_talbe is a DICTIONARY, and JSON knows how to
      deal with it. JSON DOES NOT know how to work with np.arrays. """
-    path = os.getcwd()
-    with open(path + "\\q_table.json", "w") as output:
+
+    with open("q_table.json", "w") as output:
         output.write(json.dumps(agent.q_table))
         output.close()
 
 
 def read_dict_from_file(agent):
     """Load a ready Q_table dictionary to our agent. """
-    path = os.getcwd()
-    with open(path + "\\q_table.json", "r") as input:
+
+    with open("q_table.json", "r") as input:
         agent.q_table = json.load(input)
         input.close()
 

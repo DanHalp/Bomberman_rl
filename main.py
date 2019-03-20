@@ -2,6 +2,7 @@
 from time import time, sleep
 import contextlib
 from time import time
+
 with contextlib.redirect_stdout(None):
     import pygame
 from pygame.locals import *
@@ -34,16 +35,11 @@ def game_logic(world, user_inputs):
 
 def main():
     pygame.init()
+
     # Emulate Windows process spawning behaviour under Unix (for testing)
     # mp.set_start_method('spawn')
 
     # Initialize environment and agents
-    # world = BombeRLeWorld([
-    #         ('simple_agent', False),
-    #         ('simple_agent', False),
-    #         ('simple_agent', False),
-    #         ('simple_agent', False)
-    #     ])
     world = BombeRLeWorld([
             ('Lord_Voldemort', False),
             ('simple_agent', False),
@@ -54,7 +50,6 @@ def main():
     user_inputs = []
 
     # Start game logic thread
-    # TOdo : Retriveeeeeeeeee it before trying multiplayer.
     t = threading.Thread(target=game_logic, args=(world, user_inputs))
     t.daemon = True
     t.start()
@@ -109,7 +104,6 @@ def main():
                 sleep_time = 1/s.fps - (time() - last_frame)
                 if sleep_time > 0:
                     sleep(sleep_time)
-                # Todo : "if not s.gui
                 if not s.gui:
                     last_frame = time()
 

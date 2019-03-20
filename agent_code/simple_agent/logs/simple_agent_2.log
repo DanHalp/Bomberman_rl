@@ -1,343 +1,881 @@
-2019-03-19 15:33:33,373 [simple_agent_2_wrapper] INFO: Import agent code from "agent_code/simple_agent/callbacks.py"
-2019-03-19 15:33:33,377 [simple_agent_2_wrapper] INFO: Initialize agent code
-2019-03-19 15:33:33,377 [simple_agent_2_code] DEBUG: Successfully entered setup code
-2019-03-19 15:33:33,382 [simple_agent_2_wrapper] INFO: STARTING ROUND #1
-2019-03-19 15:33:33,484 [simple_agent_2_wrapper] INFO: STARTING STEP 1
-2019-03-19 15:33:33,484 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:33,484 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:33,486 [simple_agent_2_code] DEBUG: Suitable target found at (14, 1)
-2019-03-19 15:33:33,486 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:33,585 [simple_agent_2_wrapper] INFO: STARTING STEP 2
-2019-03-19 15:33:33,585 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:33,585 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:33,586 [simple_agent_2_code] DEBUG: Suitable target found at (14, 1)
-2019-03-19 15:33:33,586 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:33,689 [simple_agent_2_wrapper] INFO: STARTING STEP 3
-2019-03-19 15:33:33,689 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:33,690 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
-2019-03-19 15:33:33,696 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:33,697 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
-2019-03-19 15:33:33,791 [simple_agent_2_wrapper] INFO: STARTING STEP 4
-2019-03-19 15:33:33,791 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:33,792 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
-2019-03-19 15:33:33,800 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:33,801 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.009s of thinking
-2019-03-19 15:33:33,898 [simple_agent_2_wrapper] INFO: STARTING STEP 5
-2019-03-19 15:33:33,898 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:33,899 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:33,905 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:33,906 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.008s of thinking
-2019-03-19 15:33:33,994 [simple_agent_2_wrapper] INFO: STARTING STEP 6
-2019-03-19 15:33:33,995 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:33,996 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT']
-2019-03-19 15:33:34,002 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:34,002 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
-2019-03-19 15:33:34,099 [simple_agent_2_wrapper] INFO: STARTING STEP 7
-2019-03-19 15:33:34,100 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,102 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
-2019-03-19 15:33:34,107 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:34,108 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
-2019-03-19 15:33:34,226 [simple_agent_2_wrapper] INFO: STARTING STEP 8
-2019-03-19 15:33:34,226 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,227 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT', 'BOMB']
-2019-03-19 15:33:34,230 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:34,231 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.005s of thinking
-2019-03-19 15:33:34,325 [simple_agent_2_wrapper] INFO: STARTING STEP 9
-2019-03-19 15:33:34,326 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,326 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:34,328 [simple_agent_2_code] DEBUG: Suitable target found at (14, 3)
-2019-03-19 15:33:34,328 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:34,427 [simple_agent_2_wrapper] INFO: STARTING STEP 10
-2019-03-19 15:33:34,428 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,429 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
-2019-03-19 15:33:34,435 [simple_agent_2_code] DEBUG: Suitable target found at (13, 2)
-2019-03-19 15:33:34,435 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
-2019-03-19 15:33:34,521 [simple_agent_2_wrapper] INFO: STARTING STEP 11
-2019-03-19 15:33:34,521 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,522 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
-2019-03-19 15:33:34,528 [simple_agent_2_code] DEBUG: Suitable target found at (13, 2)
-2019-03-19 15:33:34,529 [simple_agent_2_wrapper] INFO: Chose action UP after 0.008s of thinking
-2019-03-19 15:33:34,622 [simple_agent_2_wrapper] INFO: STARTING STEP 12
-2019-03-19 15:33:34,623 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,623 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:34,628 [simple_agent_2_code] DEBUG: Suitable target found at (13, 2)
-2019-03-19 15:33:34,628 [simple_agent_2_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:34,724 [simple_agent_2_wrapper] INFO: STARTING STEP 13
-2019-03-19 15:33:34,724 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,725 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
-2019-03-19 15:33:34,728 [simple_agent_2_code] DEBUG: Suitable target found at (13, 2)
-2019-03-19 15:33:34,729 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.005s of thinking
-2019-03-19 15:33:34,825 [simple_agent_2_wrapper] INFO: STARTING STEP 14
-2019-03-19 15:33:34,826 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,826 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
-2019-03-19 15:33:34,829 [simple_agent_2_code] DEBUG: Suitable target found at (13, 2)
-2019-03-19 15:33:34,830 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:34,927 [simple_agent_2_wrapper] INFO: STARTING STEP 15
-2019-03-19 15:33:34,927 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:34,928 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:34,929 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
-2019-03-19 15:33:34,930 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:35,027 [simple_agent_2_wrapper] INFO: STARTING STEP 16
-2019-03-19 15:33:35,028 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,028 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
-2019-03-19 15:33:35,029 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
-2019-03-19 15:33:35,030 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:35,132 [simple_agent_2_wrapper] INFO: STARTING STEP 17
-2019-03-19 15:33:35,132 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,133 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:35,135 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
-2019-03-19 15:33:35,135 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:35,235 [simple_agent_2_wrapper] INFO: STARTING STEP 18
-2019-03-19 15:33:35,235 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,235 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:35,236 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
-2019-03-19 15:33:35,237 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:35,336 [simple_agent_2_wrapper] INFO: STARTING STEP 19
-2019-03-19 15:33:35,336 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,336 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:35,337 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
-2019-03-19 15:33:35,337 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:35,439 [simple_agent_2_wrapper] INFO: STARTING STEP 20
-2019-03-19 15:33:35,439 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,440 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
-2019-03-19 15:33:35,448 [simple_agent_2_code] DEBUG: Suitable target found at (13, 5)
-2019-03-19 15:33:35,449 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
-2019-03-19 15:33:35,566 [simple_agent_2_wrapper] INFO: STARTING STEP 21
-2019-03-19 15:33:35,567 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,568 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
-2019-03-19 15:33:35,577 [simple_agent_2_code] DEBUG: Suitable target found at (13, 5)
-2019-03-19 15:33:35,578 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
-2019-03-19 15:33:35,646 [simple_agent_2_wrapper] INFO: STARTING STEP 22
-2019-03-19 15:33:35,647 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,647 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
-2019-03-19 15:33:35,656 [simple_agent_2_code] DEBUG: Suitable target found at (11, 3)
-2019-03-19 15:33:35,657 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.011s of thinking
-2019-03-19 15:33:35,764 [simple_agent_2_wrapper] INFO: STARTING STEP 23
-2019-03-19 15:33:35,764 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,765 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:35,769 [simple_agent_2_code] DEBUG: Suitable target found at (11, 3)
-2019-03-19 15:33:35,770 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:35,855 [simple_agent_2_wrapper] INFO: STARTING STEP 24
-2019-03-19 15:33:35,855 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,856 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:35,858 [simple_agent_2_code] DEBUG: Suitable target found at (11, 3)
-2019-03-19 15:33:35,858 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:35,957 [simple_agent_2_wrapper] INFO: STARTING STEP 25
-2019-03-19 15:33:35,958 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:35,958 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:35,961 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
-2019-03-19 15:33:35,962 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:36,060 [simple_agent_2_wrapper] INFO: STARTING STEP 26
-2019-03-19 15:33:36,061 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,062 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:36,071 [simple_agent_2_code] DEBUG: Suitable target found at (13, 5)
-2019-03-19 15:33:36,072 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.011s of thinking
-2019-03-19 15:33:36,162 [simple_agent_2_wrapper] INFO: STARTING STEP 27
-2019-03-19 15:33:36,162 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,163 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:36,169 [simple_agent_2_code] DEBUG: Suitable target found at (13, 5)
-2019-03-19 15:33:36,170 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.008s of thinking
-2019-03-19 15:33:36,263 [simple_agent_2_wrapper] INFO: STARTING STEP 28
-2019-03-19 15:33:36,263 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,264 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
-2019-03-19 15:33:36,268 [simple_agent_2_code] DEBUG: Suitable target found at (13, 5)
-2019-03-19 15:33:36,268 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
-2019-03-19 15:33:36,365 [simple_agent_2_wrapper] INFO: STARTING STEP 29
-2019-03-19 15:33:36,366 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,367 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
-2019-03-19 15:33:36,376 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
-2019-03-19 15:33:36,377 [simple_agent_2_wrapper] INFO: Chose action UP after 0.011s of thinking
-2019-03-19 15:33:36,499 [simple_agent_2_wrapper] INFO: STARTING STEP 30
-2019-03-19 15:33:36,500 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,501 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
-2019-03-19 15:33:36,507 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
-2019-03-19 15:33:36,508 [simple_agent_2_wrapper] INFO: Chose action UP after 0.008s of thinking
-2019-03-19 15:33:36,592 [simple_agent_2_wrapper] INFO: STARTING STEP 31
-2019-03-19 15:33:36,593 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,594 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:36,602 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
-2019-03-19 15:33:36,603 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
-2019-03-19 15:33:36,683 [simple_agent_2_wrapper] INFO: STARTING STEP 32
-2019-03-19 15:33:36,684 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,684 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
-2019-03-19 15:33:36,692 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
-2019-03-19 15:33:36,692 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
-2019-03-19 15:33:36,796 [simple_agent_2_wrapper] INFO: STARTING STEP 33
-2019-03-19 15:33:36,797 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,797 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT']
-2019-03-19 15:33:36,806 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
-2019-03-19 15:33:36,806 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
-2019-03-19 15:33:36,886 [simple_agent_2_wrapper] INFO: STARTING STEP 34
-2019-03-19 15:33:36,886 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,887 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
-2019-03-19 15:33:36,889 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:36,889 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:36,987 [simple_agent_2_wrapper] INFO: STARTING STEP 35
-2019-03-19 15:33:36,987 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:36,988 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'WAIT', 'BOMB']
-2019-03-19 15:33:36,990 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:36,990 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:37,091 [simple_agent_2_wrapper] INFO: STARTING STEP 36
-2019-03-19 15:33:37,092 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,096 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
-2019-03-19 15:33:37,109 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:37,110 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.018s of thinking
-2019-03-19 15:33:37,202 [simple_agent_2_wrapper] INFO: STARTING STEP 37
-2019-03-19 15:33:37,202 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,202 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:37,205 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:37,205 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:37,298 [simple_agent_2_wrapper] INFO: STARTING STEP 38
-2019-03-19 15:33:37,299 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,299 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:37,302 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:37,303 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:37,401 [simple_agent_2_wrapper] INFO: STARTING STEP 39
-2019-03-19 15:33:37,401 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,402 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:37,411 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:37,411 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
-2019-03-19 15:33:37,509 [simple_agent_2_wrapper] INFO: STARTING STEP 40
-2019-03-19 15:33:37,509 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,510 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:37,514 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:37,515 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:37,621 [simple_agent_2_wrapper] INFO: STARTING STEP 41
-2019-03-19 15:33:37,622 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,622 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
-2019-03-19 15:33:37,624 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
-2019-03-19 15:33:37,624 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:37,728 [simple_agent_2_wrapper] INFO: STARTING STEP 42
-2019-03-19 15:33:37,729 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,730 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT']
-2019-03-19 15:33:37,738 [simple_agent_2_code] DEBUG: Suitable target found at (13, 8)
-2019-03-19 15:33:37,738 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
-2019-03-19 15:33:37,833 [simple_agent_2_wrapper] INFO: STARTING STEP 43
-2019-03-19 15:33:37,833 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,834 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
-2019-03-19 15:33:37,837 [simple_agent_2_code] DEBUG: Suitable target found at (10, 5)
-2019-03-19 15:33:37,837 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:37,928 [simple_agent_2_wrapper] INFO: STARTING STEP 44
-2019-03-19 15:33:37,928 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:37,928 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:37,933 [simple_agent_2_code] DEBUG: Suitable target found at (10, 5)
-2019-03-19 15:33:37,933 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:38,028 [simple_agent_2_wrapper] INFO: STARTING STEP 45
-2019-03-19 15:33:38,028 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,029 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:38,032 [simple_agent_2_code] DEBUG: Suitable target found at (13, 8)
-2019-03-19 15:33:38,032 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:38,131 [simple_agent_2_wrapper] INFO: STARTING STEP 46
-2019-03-19 15:33:38,131 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,131 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:38,135 [simple_agent_2_code] DEBUG: Suitable target found at (13, 8)
-2019-03-19 15:33:38,135 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:38,232 [simple_agent_2_wrapper] INFO: STARTING STEP 47
-2019-03-19 15:33:38,232 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,233 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
-2019-03-19 15:33:38,235 [simple_agent_2_code] DEBUG: Suitable target found at (13, 8)
-2019-03-19 15:33:38,236 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
-2019-03-19 15:33:38,336 [simple_agent_2_wrapper] INFO: STARTING STEP 48
-2019-03-19 15:33:38,336 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,337 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
-2019-03-19 15:33:38,346 [simple_agent_2_code] DEBUG: Suitable target found at (10, 5)
-2019-03-19 15:33:38,346 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
-2019-03-19 15:33:38,437 [simple_agent_2_wrapper] INFO: STARTING STEP 49
-2019-03-19 15:33:38,438 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,439 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
-2019-03-19 15:33:38,446 [simple_agent_2_code] DEBUG: Suitable target found at (15, 4)
-2019-03-19 15:33:38,447 [simple_agent_2_wrapper] INFO: Chose action UP after 0.008s of thinking
-2019-03-19 15:33:38,554 [simple_agent_2_wrapper] INFO: STARTING STEP 50
-2019-03-19 15:33:38,554 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,555 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:38,558 [simple_agent_2_code] DEBUG: Suitable target found at (10, 5)
-2019-03-19 15:33:38,559 [simple_agent_2_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:38,646 [simple_agent_2_wrapper] INFO: STARTING STEP 51
-2019-03-19 15:33:38,647 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,647 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:38,652 [simple_agent_2_code] DEBUG: Suitable target found at (10, 5)
-2019-03-19 15:33:38,652 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:38,747 [simple_agent_2_wrapper] INFO: STARTING STEP 52
-2019-03-19 15:33:38,747 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,748 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
-2019-03-19 15:33:38,750 [simple_agent_2_code] DEBUG: Suitable target found at (15, 4)
-2019-03-19 15:33:38,751 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:38,855 [simple_agent_2_wrapper] INFO: STARTING STEP 53
-2019-03-19 15:33:38,856 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,857 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:38,862 [simple_agent_2_code] DEBUG: Suitable target found at (15, 4)
-2019-03-19 15:33:38,863 [simple_agent_2_wrapper] INFO: Chose action UP after 0.007s of thinking
-2019-03-19 15:33:38,952 [simple_agent_2_wrapper] INFO: STARTING STEP 54
-2019-03-19 15:33:38,952 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:38,953 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:38,959 [simple_agent_2_code] DEBUG: Suitable target found at (15, 8)
-2019-03-19 15:33:38,960 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.007s of thinking
-2019-03-19 15:33:39,073 [simple_agent_2_wrapper] INFO: STARTING STEP 55
-2019-03-19 15:33:39,074 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,075 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:39,092 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,093 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.019s of thinking
-2019-03-19 15:33:39,160 [simple_agent_2_wrapper] INFO: STARTING STEP 56
-2019-03-19 15:33:39,161 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,161 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:39,165 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,165 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:39,264 [simple_agent_2_wrapper] INFO: STARTING STEP 57
-2019-03-19 15:33:39,264 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,265 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
-2019-03-19 15:33:39,272 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,272 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.008s of thinking
-2019-03-19 15:33:39,370 [simple_agent_2_wrapper] INFO: STARTING STEP 58
-2019-03-19 15:33:39,371 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,371 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:39,379 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,379 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.008s of thinking
-2019-03-19 15:33:39,467 [simple_agent_2_wrapper] INFO: STARTING STEP 59
-2019-03-19 15:33:39,468 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,469 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
-2019-03-19 15:33:39,476 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,477 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
-2019-03-19 15:33:39,591 [simple_agent_2_wrapper] INFO: STARTING STEP 60
-2019-03-19 15:33:39,592 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,593 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
-2019-03-19 15:33:39,599 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,600 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
-2019-03-19 15:33:39,672 [simple_agent_2_wrapper] INFO: STARTING STEP 61
-2019-03-19 15:33:39,672 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,672 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
-2019-03-19 15:33:39,675 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,675 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:39,775 [simple_agent_2_wrapper] INFO: STARTING STEP 62
-2019-03-19 15:33:39,776 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,777 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
-2019-03-19 15:33:39,780 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:39,781 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
-2019-03-19 15:33:39,875 [simple_agent_2_wrapper] INFO: STARTING STEP 63
-2019-03-19 15:33:39,875 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,875 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
-2019-03-19 15:33:39,878 [simple_agent_2_code] DEBUG: Suitable target found at (10, 5)
-2019-03-19 15:33:39,878 [simple_agent_2_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:39,980 [simple_agent_2_wrapper] INFO: STARTING STEP 64
-2019-03-19 15:33:39,980 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:39,981 [simple_agent_2_code] DEBUG: Valid actions: []
-2019-03-19 15:33:39,989 [simple_agent_2_code] DEBUG: Suitable target found at (9, 5)
-2019-03-19 15:33:39,990 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.010s of thinking
-2019-03-19 15:33:40,080 [simple_agent_2_wrapper] INFO: STARTING STEP 65
-2019-03-19 15:33:40,080 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:40,081 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
-2019-03-19 15:33:40,084 [simple_agent_2_code] DEBUG: Suitable target found at (9, 6)
-2019-03-19 15:33:40,084 [simple_agent_2_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:40,185 [simple_agent_2_wrapper] INFO: STARTING STEP 66
-2019-03-19 15:33:40,185 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:40,186 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
-2019-03-19 15:33:40,191 [simple_agent_2_code] DEBUG: Suitable target found at (9, 5)
-2019-03-19 15:33:40,192 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
-2019-03-19 15:33:40,306 [simple_agent_2_wrapper] INFO: STARTING STEP 67
-2019-03-19 15:33:40,307 [simple_agent_2_code] INFO: Picking action according to rule set
-2019-03-19 15:33:40,307 [simple_agent_2_code] DEBUG: Valid actions: []
-2019-03-19 15:33:40,310 [simple_agent_2_code] DEBUG: Suitable target found at (9, 5)
-2019-03-19 15:33:40,311 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.004s of thinking
-2019-03-19 15:33:40,324 [simple_agent_2_wrapper] INFO: Received exit message for round
-2019-03-19 15:33:40,324 [simple_agent_2_wrapper] INFO: Round #1 finished
-2019-03-19 15:34:06,607 [simple_agent_2_wrapper] INFO: Received global exit message
-2019-03-19 15:34:06,608 [simple_agent_2_wrapper] INFO: SHUT DOWN
+2019-03-20 08:47:15,762 [simple_agent_2_wrapper] INFO: Import agent code from "agent_code/simple_agent/callbacks.py"
+2019-03-20 08:47:15,766 [simple_agent_2_wrapper] INFO: Initialize agent code
+2019-03-20 08:47:15,766 [simple_agent_2_code] DEBUG: Successfully entered setup code
+2019-03-20 08:47:15,785 [simple_agent_2_wrapper] INFO: STARTING ROUND #1
+2019-03-20 08:47:15,898 [simple_agent_2_wrapper] INFO: STARTING STEP 1
+2019-03-20 08:47:15,899 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:15,899 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:15,901 [simple_agent_2_code] DEBUG: Suitable target found at (14, 1)
+2019-03-20 08:47:15,901 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:15,997 [simple_agent_2_wrapper] INFO: STARTING STEP 2
+2019-03-20 08:47:15,997 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:15,997 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:16,000 [simple_agent_2_code] DEBUG: Suitable target found at (14, 1)
+2019-03-20 08:47:16,000 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:16,097 [simple_agent_2_wrapper] INFO: STARTING STEP 3
+2019-03-20 08:47:16,097 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,097 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
+2019-03-20 08:47:16,099 [simple_agent_2_code] DEBUG: Suitable target found at (15, 2)
+2019-03-20 08:47:16,099 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:16,200 [simple_agent_2_wrapper] INFO: STARTING STEP 4
+2019-03-20 08:47:16,200 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,201 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-03-20 08:47:16,203 [simple_agent_2_code] DEBUG: Suitable target found at (15, 2)
+2019-03-20 08:47:16,203 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:16,302 [simple_agent_2_wrapper] INFO: STARTING STEP 5
+2019-03-20 08:47:16,302 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,303 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-03-20 08:47:16,307 [simple_agent_2_code] DEBUG: Suitable target found at (15, 2)
+2019-03-20 08:47:16,307 [simple_agent_2_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:16,404 [simple_agent_2_wrapper] INFO: STARTING STEP 6
+2019-03-20 08:47:16,404 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,405 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-03-20 08:47:16,409 [simple_agent_2_code] DEBUG: Suitable target found at (15, 2)
+2019-03-20 08:47:16,410 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:16,505 [simple_agent_2_wrapper] INFO: STARTING STEP 7
+2019-03-20 08:47:16,505 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,507 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT']
+2019-03-20 08:47:16,510 [simple_agent_2_code] DEBUG: Suitable target found at (15, 2)
+2019-03-20 08:47:16,510 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-03-20 08:47:16,609 [simple_agent_2_wrapper] INFO: STARTING STEP 8
+2019-03-20 08:47:16,610 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,612 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT', 'BOMB']
+2019-03-20 08:47:16,613 [simple_agent_2_code] DEBUG: Suitable target found at (15, 2)
+2019-03-20 08:47:16,614 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:16,709 [simple_agent_2_wrapper] INFO: STARTING STEP 9
+2019-03-20 08:47:16,710 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,711 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:16,719 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
+2019-03-20 08:47:16,720 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:16,807 [simple_agent_2_wrapper] INFO: STARTING STEP 10
+2019-03-20 08:47:16,807 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,809 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:16,814 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
+2019-03-20 08:47:16,815 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-20 08:47:16,910 [simple_agent_2_wrapper] INFO: STARTING STEP 11
+2019-03-20 08:47:16,911 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:16,912 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:16,918 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
+2019-03-20 08:47:16,919 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-20 08:47:17,012 [simple_agent_2_wrapper] INFO: STARTING STEP 12
+2019-03-20 08:47:17,012 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,013 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:17,019 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
+2019-03-20 08:47:17,020 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:17,112 [simple_agent_2_wrapper] INFO: STARTING STEP 13
+2019-03-20 08:47:17,112 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,113 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:17,115 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
+2019-03-20 08:47:17,115 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:17,213 [simple_agent_2_wrapper] INFO: STARTING STEP 14
+2019-03-20 08:47:17,214 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,215 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:17,218 [simple_agent_2_code] DEBUG: Suitable target found at (11, 1)
+2019-03-20 08:47:17,219 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:17,315 [simple_agent_2_wrapper] INFO: STARTING STEP 15
+2019-03-20 08:47:17,315 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,316 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
+2019-03-20 08:47:17,323 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,324 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-03-20 08:47:17,417 [simple_agent_2_wrapper] INFO: STARTING STEP 16
+2019-03-20 08:47:17,417 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,418 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-03-20 08:47:17,426 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,427 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-20 08:47:17,516 [simple_agent_2_wrapper] INFO: STARTING STEP 17
+2019-03-20 08:47:17,516 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,517 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:17,521 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,522 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:17,619 [simple_agent_2_wrapper] INFO: STARTING STEP 18
+2019-03-20 08:47:17,620 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,621 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:17,628 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,629 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-03-20 08:47:17,720 [simple_agent_2_wrapper] INFO: STARTING STEP 19
+2019-03-20 08:47:17,721 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,722 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-03-20 08:47:17,731 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,732 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.011s of thinking
+2019-03-20 08:47:17,823 [simple_agent_2_wrapper] INFO: STARTING STEP 20
+2019-03-20 08:47:17,824 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,824 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:17,833 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,833 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-20 08:47:17,927 [simple_agent_2_wrapper] INFO: STARTING STEP 21
+2019-03-20 08:47:17,927 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:17,928 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:17,935 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:17,936 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:18,026 [simple_agent_2_wrapper] INFO: STARTING STEP 22
+2019-03-20 08:47:18,027 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,027 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:18,030 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:18,030 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:18,152 [simple_agent_2_wrapper] INFO: STARTING STEP 23
+2019-03-20 08:47:18,153 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,154 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:18,159 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:18,160 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:18,267 [simple_agent_2_wrapper] INFO: STARTING STEP 24
+2019-03-20 08:47:18,268 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,269 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:18,273 [simple_agent_2_code] DEBUG: Suitable target found at (15, 6)
+2019-03-20 08:47:18,273 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:18,359 [simple_agent_2_wrapper] INFO: STARTING STEP 25
+2019-03-20 08:47:18,359 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,360 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:18,369 [simple_agent_2_code] DEBUG: Suitable target found at (8, 1)
+2019-03-20 08:47:18,370 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:18,449 [simple_agent_2_wrapper] INFO: STARTING STEP 26
+2019-03-20 08:47:18,450 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,451 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-03-20 08:47:18,464 [simple_agent_2_code] DEBUG: Suitable target found at (11, 4)
+2019-03-20 08:47:18,465 [simple_agent_2_wrapper] INFO: Chose action UP after 0.014s of thinking
+2019-03-20 08:47:18,550 [simple_agent_2_wrapper] INFO: STARTING STEP 27
+2019-03-20 08:47:18,551 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,552 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:18,564 [simple_agent_2_code] DEBUG: Suitable target found at (8, 1)
+2019-03-20 08:47:18,565 [simple_agent_2_wrapper] INFO: Chose action UP after 0.013s of thinking
+2019-03-20 08:47:18,646 [simple_agent_2_wrapper] INFO: STARTING STEP 28
+2019-03-20 08:47:18,646 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,647 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:18,654 [simple_agent_2_code] DEBUG: Suitable target found at (8, 1)
+2019-03-20 08:47:18,655 [simple_agent_2_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-20 08:47:18,762 [simple_agent_2_wrapper] INFO: STARTING STEP 29
+2019-03-20 08:47:18,763 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,764 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-03-20 08:47:18,770 [simple_agent_2_code] DEBUG: Suitable target found at (8, 1)
+2019-03-20 08:47:18,770 [simple_agent_2_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:18,864 [simple_agent_2_wrapper] INFO: STARTING STEP 30
+2019-03-20 08:47:18,865 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,865 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:18,871 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:18,872 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:18,954 [simple_agent_2_wrapper] INFO: STARTING STEP 31
+2019-03-20 08:47:18,954 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:18,955 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:18,960 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:18,960 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:19,056 [simple_agent_2_wrapper] INFO: STARTING STEP 32
+2019-03-20 08:47:19,057 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,057 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:19,063 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:19,063 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:19,157 [simple_agent_2_wrapper] INFO: STARTING STEP 33
+2019-03-20 08:47:19,158 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,158 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:19,162 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:19,163 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:19,258 [simple_agent_2_wrapper] INFO: STARTING STEP 34
+2019-03-20 08:47:19,258 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,259 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:19,263 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:19,264 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:19,359 [simple_agent_2_wrapper] INFO: STARTING STEP 35
+2019-03-20 08:47:19,359 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,360 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:19,363 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:19,364 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:19,481 [simple_agent_2_wrapper] INFO: STARTING STEP 36
+2019-03-20 08:47:19,481 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,482 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:19,485 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:19,485 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:19,570 [simple_agent_2_wrapper] INFO: STARTING STEP 37
+2019-03-20 08:47:19,571 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,571 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:19,574 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:19,574 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:19,669 [simple_agent_2_wrapper] INFO: STARTING STEP 38
+2019-03-20 08:47:19,670 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,670 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
+2019-03-20 08:47:19,672 [simple_agent_2_code] DEBUG: Suitable target found at (15, 9)
+2019-03-20 08:47:19,672 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:19,771 [simple_agent_2_wrapper] INFO: STARTING STEP 39
+2019-03-20 08:47:19,771 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,772 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:19,774 [simple_agent_2_code] DEBUG: Suitable target found at (15, 9)
+2019-03-20 08:47:19,774 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:19,872 [simple_agent_2_wrapper] INFO: STARTING STEP 40
+2019-03-20 08:47:19,872 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,873 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:19,875 [simple_agent_2_code] DEBUG: Suitable target found at (15, 9)
+2019-03-20 08:47:19,876 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:19,978 [simple_agent_2_wrapper] INFO: STARTING STEP 41
+2019-03-20 08:47:19,978 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:19,978 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:19,984 [simple_agent_2_code] DEBUG: Suitable target found at (9, 11)
+2019-03-20 08:47:19,984 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:20,079 [simple_agent_2_wrapper] INFO: STARTING STEP 42
+2019-03-20 08:47:20,079 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,080 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:20,086 [simple_agent_2_code] DEBUG: Suitable target found at (9, 11)
+2019-03-20 08:47:20,086 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:20,180 [simple_agent_2_wrapper] INFO: STARTING STEP 43
+2019-03-20 08:47:20,180 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,181 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,186 [simple_agent_2_code] DEBUG: Suitable target found at (9, 11)
+2019-03-20 08:47:20,186 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:20,283 [simple_agent_2_wrapper] INFO: STARTING STEP 44
+2019-03-20 08:47:20,284 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,284 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,288 [simple_agent_2_code] DEBUG: Suitable target found at (9, 11)
+2019-03-20 08:47:20,289 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:20,383 [simple_agent_2_wrapper] INFO: STARTING STEP 45
+2019-03-20 08:47:20,383 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,384 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,387 [simple_agent_2_code] DEBUG: Suitable target found at (9, 11)
+2019-03-20 08:47:20,387 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:20,485 [simple_agent_2_wrapper] INFO: STARTING STEP 46
+2019-03-20 08:47:20,485 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,486 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,488 [simple_agent_2_code] DEBUG: Suitable target found at (9, 11)
+2019-03-20 08:47:20,488 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:20,586 [simple_agent_2_wrapper] INFO: STARTING STEP 47
+2019-03-20 08:47:20,586 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,586 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,588 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:20,588 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:20,691 [simple_agent_2_wrapper] INFO: STARTING STEP 48
+2019-03-20 08:47:20,691 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,691 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,693 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:20,693 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:20,790 [simple_agent_2_wrapper] INFO: STARTING STEP 49
+2019-03-20 08:47:20,791 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,791 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,792 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:20,792 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:20,892 [simple_agent_2_wrapper] INFO: STARTING STEP 50
+2019-03-20 08:47:20,893 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,893 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,894 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:20,894 [simple_agent_2_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:20,997 [simple_agent_2_wrapper] INFO: STARTING STEP 51
+2019-03-20 08:47:20,997 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:20,997 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:20,998 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:20,998 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:21,098 [simple_agent_2_wrapper] INFO: STARTING STEP 52
+2019-03-20 08:47:21,098 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,098 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:21,099 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,099 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:21,200 [simple_agent_2_wrapper] INFO: STARTING STEP 53
+2019-03-20 08:47:21,200 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,200 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:21,202 [simple_agent_2_code] DEBUG: Suitable target found at (8, 11)
+2019-03-20 08:47:21,202 [simple_agent_2_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:21,302 [simple_agent_2_wrapper] INFO: STARTING STEP 54
+2019-03-20 08:47:21,302 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,302 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:21,303 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,303 [simple_agent_2_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:21,403 [simple_agent_2_wrapper] INFO: STARTING STEP 55
+2019-03-20 08:47:21,404 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,404 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:21,405 [simple_agent_2_code] DEBUG: Suitable target found at (8, 11)
+2019-03-20 08:47:21,405 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:21,506 [simple_agent_2_wrapper] INFO: STARTING STEP 56
+2019-03-20 08:47:21,506 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,506 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:21,507 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,507 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:21,607 [simple_agent_2_wrapper] INFO: STARTING STEP 57
+2019-03-20 08:47:21,608 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,608 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:21,609 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,609 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:21,709 [simple_agent_2_wrapper] INFO: STARTING STEP 58
+2019-03-20 08:47:21,709 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,709 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN']
+2019-03-20 08:47:21,710 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,710 [simple_agent_2_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:21,813 [simple_agent_2_wrapper] INFO: STARTING STEP 59
+2019-03-20 08:47:21,813 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,814 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT']
+2019-03-20 08:47:21,817 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,817 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.004s of thinking
+2019-03-20 08:47:21,934 [simple_agent_2_wrapper] INFO: STARTING STEP 60
+2019-03-20 08:47:21,935 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:21,937 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT']
+2019-03-20 08:47:21,941 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:21,941 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.006s of thinking
+2019-03-20 08:47:22,042 [simple_agent_2_wrapper] INFO: STARTING STEP 61
+2019-03-20 08:47:22,043 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:22,044 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT']
+2019-03-20 08:47:22,049 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:22,049 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.006s of thinking
+2019-03-20 08:47:22,137 [simple_agent_2_wrapper] INFO: STARTING STEP 62
+2019-03-20 08:47:22,138 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:22,139 [simple_agent_2_code] DEBUG: Valid actions: []
+2019-03-20 08:47:22,143 [simple_agent_2_code] DEBUG: Suitable target found at (9, 10)
+2019-03-20 08:47:22,143 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.006s of thinking
+2019-03-20 08:47:22,164 [simple_agent_2_wrapper] INFO: Received exit message for round
+2019-03-20 08:47:22,164 [simple_agent_2_wrapper] INFO: Round #1 finished
+2019-03-20 08:47:48,499 [simple_agent_2_wrapper] INFO: STARTING ROUND #2
+2019-03-20 08:47:48,618 [simple_agent_2_wrapper] INFO: STARTING STEP 1
+2019-03-20 08:47:48,619 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:48,620 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:48,627 [simple_agent_2_code] DEBUG: Suitable target found at (2, 1)
+2019-03-20 08:47:48,629 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-03-20 08:47:48,709 [simple_agent_2_wrapper] INFO: STARTING STEP 2
+2019-03-20 08:47:48,709 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:48,710 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-03-20 08:47:48,712 [simple_agent_2_code] DEBUG: Suitable target found at (2, 1)
+2019-03-20 08:47:48,713 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:48,800 [simple_agent_2_wrapper] INFO: STARTING STEP 3
+2019-03-20 08:47:48,801 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:48,802 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT']
+2019-03-20 08:47:48,809 [simple_agent_2_code] DEBUG: Suitable target found at (1, 2)
+2019-03-20 08:47:48,810 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-20 08:47:48,900 [simple_agent_2_wrapper] INFO: STARTING STEP 4
+2019-03-20 08:47:48,901 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:48,902 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-03-20 08:47:48,908 [simple_agent_2_code] DEBUG: Suitable target found at (1, 2)
+2019-03-20 08:47:48,910 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:49,003 [simple_agent_2_wrapper] INFO: STARTING STEP 5
+2019-03-20 08:47:49,004 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,005 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-03-20 08:47:49,010 [simple_agent_2_code] DEBUG: Suitable target found at (1, 2)
+2019-03-20 08:47:49,011 [simple_agent_2_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:49,108 [simple_agent_2_wrapper] INFO: STARTING STEP 6
+2019-03-20 08:47:49,109 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,110 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT']
+2019-03-20 08:47:49,117 [simple_agent_2_code] DEBUG: Suitable target found at (1, 2)
+2019-03-20 08:47:49,118 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:49,208 [simple_agent_2_wrapper] INFO: STARTING STEP 7
+2019-03-20 08:47:49,209 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,210 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT']
+2019-03-20 08:47:49,214 [simple_agent_2_code] DEBUG: Suitable target found at (1, 2)
+2019-03-20 08:47:49,216 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.006s of thinking
+2019-03-20 08:47:49,307 [simple_agent_2_wrapper] INFO: STARTING STEP 8
+2019-03-20 08:47:49,307 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,308 [simple_agent_2_code] DEBUG: Valid actions: ['WAIT', 'BOMB']
+2019-03-20 08:47:49,312 [simple_agent_2_code] DEBUG: Suitable target found at (1, 2)
+2019-03-20 08:47:49,313 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.006s of thinking
+2019-03-20 08:47:49,409 [simple_agent_2_wrapper] INFO: STARTING STEP 9
+2019-03-20 08:47:49,409 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,411 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:49,418 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:49,419 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:49,510 [simple_agent_2_wrapper] INFO: STARTING STEP 10
+2019-03-20 08:47:49,511 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,512 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-03-20 08:47:49,519 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:49,519 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:49,610 [simple_agent_2_wrapper] INFO: STARTING STEP 11
+2019-03-20 08:47:49,610 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,612 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:49,619 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:49,619 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:49,713 [simple_agent_2_wrapper] INFO: STARTING STEP 12
+2019-03-20 08:47:49,713 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,714 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-03-20 08:47:49,720 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:49,721 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:49,814 [simple_agent_2_wrapper] INFO: STARTING STEP 13
+2019-03-20 08:47:49,814 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,816 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:49,821 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:49,822 [simple_agent_2_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-20 08:47:49,917 [simple_agent_2_wrapper] INFO: STARTING STEP 14
+2019-03-20 08:47:49,918 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:49,919 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:49,923 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:49,923 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:50,017 [simple_agent_2_wrapper] INFO: STARTING STEP 15
+2019-03-20 08:47:50,017 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,018 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:50,022 [simple_agent_2_code] DEBUG: Suitable target found at (3, 2)
+2019-03-20 08:47:50,023 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:50,117 [simple_agent_2_wrapper] INFO: STARTING STEP 16
+2019-03-20 08:47:50,118 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,119 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:50,127 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,128 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:50,219 [simple_agent_2_wrapper] INFO: STARTING STEP 17
+2019-03-20 08:47:50,220 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,221 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:50,230 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,231 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-03-20 08:47:50,320 [simple_agent_2_wrapper] INFO: STARTING STEP 18
+2019-03-20 08:47:50,321 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,322 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:50,328 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,329 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:50,420 [simple_agent_2_wrapper] INFO: STARTING STEP 19
+2019-03-20 08:47:50,421 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,422 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT']
+2019-03-20 08:47:50,428 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,430 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:50,529 [simple_agent_2_wrapper] INFO: STARTING STEP 20
+2019-03-20 08:47:50,530 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,531 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:50,535 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,536 [simple_agent_2_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:50,622 [simple_agent_2_wrapper] INFO: STARTING STEP 21
+2019-03-20 08:47:50,622 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,623 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:50,625 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,626 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:50,724 [simple_agent_2_wrapper] INFO: STARTING STEP 22
+2019-03-20 08:47:50,724 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,725 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:50,727 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,727 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:50,826 [simple_agent_2_wrapper] INFO: STARTING STEP 23
+2019-03-20 08:47:50,827 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,828 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:50,834 [simple_agent_2_code] DEBUG: Suitable target found at (5, 2)
+2019-03-20 08:47:50,834 [simple_agent_2_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:50,926 [simple_agent_2_wrapper] INFO: STARTING STEP 24
+2019-03-20 08:47:50,926 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:50,926 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:50,929 [simple_agent_2_code] DEBUG: Suitable target found at (5, 1)
+2019-03-20 08:47:50,930 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:51,027 [simple_agent_2_wrapper] INFO: STARTING STEP 25
+2019-03-20 08:47:51,027 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,027 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:51,030 [simple_agent_2_code] DEBUG: Suitable target found at (5, 1)
+2019-03-20 08:47:51,030 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:51,129 [simple_agent_2_wrapper] INFO: STARTING STEP 26
+2019-03-20 08:47:51,129 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,130 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:51,133 [simple_agent_2_code] DEBUG: Suitable target found at (5, 1)
+2019-03-20 08:47:51,133 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:51,230 [simple_agent_2_wrapper] INFO: STARTING STEP 27
+2019-03-20 08:47:51,230 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,230 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:51,233 [simple_agent_2_code] DEBUG: Suitable target found at (5, 1)
+2019-03-20 08:47:51,233 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:51,341 [simple_agent_2_wrapper] INFO: STARTING STEP 28
+2019-03-20 08:47:51,341 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,342 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:51,346 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,346 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:51,433 [simple_agent_2_wrapper] INFO: STARTING STEP 29
+2019-03-20 08:47:51,433 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,433 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:51,437 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,437 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:51,534 [simple_agent_2_wrapper] INFO: STARTING STEP 30
+2019-03-20 08:47:51,534 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,534 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:51,538 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,538 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:51,635 [simple_agent_2_wrapper] INFO: STARTING STEP 31
+2019-03-20 08:47:51,635 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,636 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:51,638 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,638 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:51,737 [simple_agent_2_wrapper] INFO: STARTING STEP 32
+2019-03-20 08:47:51,737 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,737 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:51,738 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,739 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:51,839 [simple_agent_2_wrapper] INFO: STARTING STEP 33
+2019-03-20 08:47:51,840 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,840 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:51,842 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,843 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:51,943 [simple_agent_2_wrapper] INFO: STARTING STEP 34
+2019-03-20 08:47:51,943 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:51,944 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:51,946 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:51,946 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:52,053 [simple_agent_2_wrapper] INFO: STARTING STEP 35
+2019-03-20 08:47:52,053 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,054 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:52,057 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:52,057 [simple_agent_2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:52,149 [simple_agent_2_wrapper] INFO: STARTING STEP 36
+2019-03-20 08:47:52,149 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,150 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-03-20 08:47:52,153 [simple_agent_2_code] DEBUG: Suitable target found at (5, 5)
+2019-03-20 08:47:52,154 [simple_agent_2_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:52,250 [simple_agent_2_wrapper] INFO: STARTING STEP 37
+2019-03-20 08:47:52,251 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,251 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:52,253 [simple_agent_2_code] DEBUG: Suitable target found at (5, 3)
+2019-03-20 08:47:52,253 [simple_agent_2_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:52,360 [simple_agent_2_wrapper] INFO: STARTING STEP 38
+2019-03-20 08:47:52,360 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,360 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:52,361 [simple_agent_2_code] DEBUG: Suitable target found at (5, 3)
+2019-03-20 08:47:52,362 [simple_agent_2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:52,461 [simple_agent_2_wrapper] INFO: STARTING STEP 39
+2019-03-20 08:47:52,462 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,462 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:52,464 [simple_agent_2_code] DEBUG: Suitable target found at (5, 1)
+2019-03-20 08:47:52,464 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:52,563 [simple_agent_2_wrapper] INFO: STARTING STEP 40
+2019-03-20 08:47:52,563 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,563 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:52,566 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:52,566 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:52,664 [simple_agent_2_wrapper] INFO: STARTING STEP 41
+2019-03-20 08:47:52,664 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,664 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:52,667 [simple_agent_2_code] DEBUG: Suitable target found at (7, 4)
+2019-03-20 08:47:52,667 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:52,766 [simple_agent_2_wrapper] INFO: STARTING STEP 42
+2019-03-20 08:47:52,766 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,766 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:52,768 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:52,768 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:52,866 [simple_agent_2_wrapper] INFO: STARTING STEP 43
+2019-03-20 08:47:52,867 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,867 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:52,869 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:52,869 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:52,969 [simple_agent_2_wrapper] INFO: STARTING STEP 44
+2019-03-20 08:47:52,969 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:52,970 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:52,972 [simple_agent_2_code] DEBUG: Suitable target found at (7, 4)
+2019-03-20 08:47:52,972 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:53,071 [simple_agent_2_wrapper] INFO: STARTING STEP 45
+2019-03-20 08:47:53,071 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,071 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:53,073 [simple_agent_2_code] DEBUG: Suitable target found at (7, 4)
+2019-03-20 08:47:53,073 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:53,173 [simple_agent_2_wrapper] INFO: STARTING STEP 46
+2019-03-20 08:47:53,173 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,173 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:53,174 [simple_agent_2_code] DEBUG: Suitable target found at (7, 4)
+2019-03-20 08:47:53,174 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:53,276 [simple_agent_2_wrapper] INFO: STARTING STEP 47
+2019-03-20 08:47:53,276 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,277 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:53,279 [simple_agent_2_code] DEBUG: Suitable target found at (7, 4)
+2019-03-20 08:47:53,280 [simple_agent_2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:53,377 [simple_agent_2_wrapper] INFO: STARTING STEP 48
+2019-03-20 08:47:53,377 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,377 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:53,379 [simple_agent_2_code] DEBUG: Suitable target found at (7, 4)
+2019-03-20 08:47:53,379 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:53,481 [simple_agent_2_wrapper] INFO: STARTING STEP 49
+2019-03-20 08:47:53,481 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,482 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN']
+2019-03-20 08:47:53,492 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:53,493 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-20 08:47:53,583 [simple_agent_2_wrapper] INFO: STARTING STEP 50
+2019-03-20 08:47:53,584 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,585 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:53,594 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:53,594 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
+2019-03-20 08:47:53,683 [simple_agent_2_wrapper] INFO: STARTING STEP 51
+2019-03-20 08:47:53,684 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,685 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:53,695 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:53,696 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-20 08:47:53,788 [simple_agent_2_wrapper] INFO: STARTING STEP 52
+2019-03-20 08:47:53,788 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,789 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:53,796 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:53,796 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:53,888 [simple_agent_2_wrapper] INFO: STARTING STEP 53
+2019-03-20 08:47:53,889 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,890 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-03-20 08:47:53,900 [simple_agent_2_code] DEBUG: Suitable target found at (11, 7)
+2019-03-20 08:47:53,901 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.013s of thinking
+2019-03-20 08:47:53,988 [simple_agent_2_wrapper] INFO: STARTING STEP 54
+2019-03-20 08:47:53,989 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:53,990 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:53,998 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:53,998 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:54,091 [simple_agent_2_wrapper] INFO: STARTING STEP 55
+2019-03-20 08:47:54,091 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,092 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:54,104 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:54,105 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.014s of thinking
+2019-03-20 08:47:54,192 [simple_agent_2_wrapper] INFO: STARTING STEP 56
+2019-03-20 08:47:54,193 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,194 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:54,202 [simple_agent_2_code] DEBUG: Suitable target found at (12, 7)
+2019-03-20 08:47:54,203 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-20 08:47:54,294 [simple_agent_2_wrapper] INFO: STARTING STEP 57
+2019-03-20 08:47:54,295 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,296 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:54,301 [simple_agent_2_code] DEBUG: Suitable target found at (12, 7)
+2019-03-20 08:47:54,302 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:54,403 [simple_agent_2_wrapper] INFO: STARTING STEP 58
+2019-03-20 08:47:54,403 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,405 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:54,410 [simple_agent_2_code] DEBUG: Suitable target found at (11, 8)
+2019-03-20 08:47:54,411 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.007s of thinking
+2019-03-20 08:47:54,506 [simple_agent_2_wrapper] INFO: STARTING STEP 59
+2019-03-20 08:47:54,507 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,508 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN']
+2019-03-20 08:47:54,512 [simple_agent_2_code] DEBUG: Suitable target found at (12, 7)
+2019-03-20 08:47:54,513 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:54,604 [simple_agent_2_wrapper] INFO: STARTING STEP 60
+2019-03-20 08:47:54,606 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,608 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:54,612 [simple_agent_2_code] DEBUG: Suitable target found at (12, 7)
+2019-03-20 08:47:54,612 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:54,708 [simple_agent_2_wrapper] INFO: STARTING STEP 61
+2019-03-20 08:47:54,709 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,710 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:54,717 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:54,718 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:54,809 [simple_agent_2_wrapper] INFO: STARTING STEP 62
+2019-03-20 08:47:54,810 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,811 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:54,819 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:54,819 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:54,902 [simple_agent_2_wrapper] INFO: STARTING STEP 63
+2019-03-20 08:47:54,903 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:54,904 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN']
+2019-03-20 08:47:54,911 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:54,912 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:55,023 [simple_agent_2_wrapper] INFO: STARTING STEP 64
+2019-03-20 08:47:55,023 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,024 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,032 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:55,033 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-20 08:47:55,108 [simple_agent_2_wrapper] INFO: STARTING STEP 65
+2019-03-20 08:47:55,108 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,109 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,116 [simple_agent_2_code] DEBUG: Suitable target found at (7, 11)
+2019-03-20 08:47:55,118 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:55,209 [simple_agent_2_wrapper] INFO: STARTING STEP 66
+2019-03-20 08:47:55,210 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,217 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,223 [simple_agent_2_code] DEBUG: Suitable target found at (7, 10)
+2019-03-20 08:47:55,224 [simple_agent_2_wrapper] INFO: Chose action UP after 0.014s of thinking
+2019-03-20 08:47:55,307 [simple_agent_2_wrapper] INFO: STARTING STEP 67
+2019-03-20 08:47:55,307 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,307 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,309 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:55,309 [simple_agent_2_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:55,417 [simple_agent_2_wrapper] INFO: STARTING STEP 68
+2019-03-20 08:47:55,417 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,419 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,422 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:55,422 [simple_agent_2_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:55,524 [simple_agent_2_wrapper] INFO: STARTING STEP 69
+2019-03-20 08:47:55,525 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,526 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,531 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:55,531 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:55,622 [simple_agent_2_wrapper] INFO: STARTING STEP 70
+2019-03-20 08:47:55,623 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,624 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,630 [simple_agent_2_code] DEBUG: Suitable target found at (7, 7)
+2019-03-20 08:47:55,630 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:55,721 [simple_agent_2_wrapper] INFO: STARTING STEP 71
+2019-03-20 08:47:55,722 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,722 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'BOMB']
+2019-03-20 08:47:55,729 [simple_agent_2_code] DEBUG: Suitable target found at (7, 8)
+2019-03-20 08:47:55,730 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:55,822 [simple_agent_2_wrapper] INFO: STARTING STEP 72
+2019-03-20 08:47:55,823 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,824 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,835 [simple_agent_2_code] DEBUG: Suitable target found at (6, 9)
+2019-03-20 08:47:55,836 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.013s of thinking
+2019-03-20 08:47:55,923 [simple_agent_2_wrapper] INFO: STARTING STEP 73
+2019-03-20 08:47:55,923 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:55,924 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:55,935 [simple_agent_2_code] DEBUG: Suitable target found at (9, 4)
+2019-03-20 08:47:55,935 [simple_agent_2_wrapper] INFO: Chose action UP after 0.012s of thinking
+2019-03-20 08:47:56,027 [simple_agent_2_wrapper] INFO: STARTING STEP 74
+2019-03-20 08:47:56,028 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,029 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:56,037 [simple_agent_2_code] DEBUG: Suitable target found at (9, 4)
+2019-03-20 08:47:56,038 [simple_agent_2_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:56,127 [simple_agent_2_wrapper] INFO: STARTING STEP 75
+2019-03-20 08:47:56,128 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,129 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:56,134 [simple_agent_2_code] DEBUG: Suitable target found at (9, 4)
+2019-03-20 08:47:56,135 [simple_agent_2_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:56,226 [simple_agent_2_wrapper] INFO: STARTING STEP 76
+2019-03-20 08:47:56,226 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,226 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:56,227 [simple_agent_2_code] DEBUG: Suitable target found at (9, 4)
+2019-03-20 08:47:56,227 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:56,336 [simple_agent_2_wrapper] INFO: STARTING STEP 77
+2019-03-20 08:47:56,337 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,338 [simple_agent_2_code] DEBUG: Valid actions: ['DOWN']
+2019-03-20 08:47:56,351 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,352 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.015s of thinking
+2019-03-20 08:47:56,439 [simple_agent_2_wrapper] INFO: STARTING STEP 78
+2019-03-20 08:47:56,439 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,439 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'DOWN', 'WAIT']
+2019-03-20 08:47:56,445 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,445 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:56,537 [simple_agent_2_wrapper] INFO: STARTING STEP 79
+2019-03-20 08:47:56,537 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,538 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:56,540 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,540 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:56,638 [simple_agent_2_wrapper] INFO: STARTING STEP 80
+2019-03-20 08:47:56,638 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,639 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:56,645 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,645 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-20 08:47:56,742 [simple_agent_2_wrapper] INFO: STARTING STEP 81
+2019-03-20 08:47:56,743 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,747 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:56,756 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,756 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.013s of thinking
+2019-03-20 08:47:56,851 [simple_agent_2_wrapper] INFO: STARTING STEP 82
+2019-03-20 08:47:56,852 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,853 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:56,858 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,859 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-20 08:47:56,943 [simple_agent_2_wrapper] INFO: STARTING STEP 83
+2019-03-20 08:47:56,943 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:56,943 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:56,944 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:56,945 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:57,050 [simple_agent_2_wrapper] INFO: STARTING STEP 84
+2019-03-20 08:47:57,051 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,051 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT', 'BOMB']
+2019-03-20 08:47:57,057 [simple_agent_2_code] DEBUG: Suitable target found at (15, 5)
+2019-03-20 08:47:57,058 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.007s of thinking
+2019-03-20 08:47:57,149 [simple_agent_2_wrapper] INFO: STARTING STEP 85
+2019-03-20 08:47:57,150 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,151 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT']
+2019-03-20 08:47:57,165 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:57,167 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-20 08:47:57,252 [simple_agent_2_wrapper] INFO: STARTING STEP 86
+2019-03-20 08:47:57,253 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,254 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'WAIT']
+2019-03-20 08:47:57,265 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:57,266 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-03-20 08:47:57,352 [simple_agent_2_wrapper] INFO: STARTING STEP 87
+2019-03-20 08:47:57,353 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,354 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:57,362 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:57,363 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-20 08:47:57,457 [simple_agent_2_wrapper] INFO: STARTING STEP 88
+2019-03-20 08:47:57,458 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,461 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:57,476 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:57,476 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.018s of thinking
+2019-03-20 08:47:57,555 [simple_agent_2_wrapper] INFO: STARTING STEP 89
+2019-03-20 08:47:57,556 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,557 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:57,574 [simple_agent_2_code] DEBUG: Suitable target found at (14, 7)
+2019-03-20 08:47:57,574 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.018s of thinking
+2019-03-20 08:47:57,658 [simple_agent_2_wrapper] INFO: STARTING STEP 90
+2019-03-20 08:47:57,659 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,660 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:57,688 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:57,689 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.030s of thinking
+2019-03-20 08:47:57,758 [simple_agent_2_wrapper] INFO: STARTING STEP 91
+2019-03-20 08:47:57,758 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,759 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:57,779 [simple_agent_2_code] DEBUG: Suitable target found at (6, 9)
+2019-03-20 08:47:57,779 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.021s of thinking
+2019-03-20 08:47:57,860 [simple_agent_2_wrapper] INFO: STARTING STEP 92
+2019-03-20 08:47:57,861 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,862 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:57,880 [simple_agent_2_code] DEBUG: Suitable target found at (6, 9)
+2019-03-20 08:47:57,880 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.019s of thinking
+2019-03-20 08:47:57,961 [simple_agent_2_wrapper] INFO: STARTING STEP 93
+2019-03-20 08:47:57,962 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:57,963 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:57,977 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:57,977 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.015s of thinking
+2019-03-20 08:47:58,061 [simple_agent_2_wrapper] INFO: STARTING STEP 94
+2019-03-20 08:47:58,062 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,062 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:58,064 [simple_agent_2_code] DEBUG: Suitable target found at (6, 9)
+2019-03-20 08:47:58,064 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:58,164 [simple_agent_2_wrapper] INFO: STARTING STEP 95
+2019-03-20 08:47:58,164 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,166 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:58,172 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:58,172 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:58,267 [simple_agent_2_wrapper] INFO: STARTING STEP 96
+2019-03-20 08:47:58,268 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,269 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:58,273 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:58,274 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:58,367 [simple_agent_2_wrapper] INFO: STARTING STEP 97
+2019-03-20 08:47:58,368 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,368 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:58,372 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:58,372 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:58,469 [simple_agent_2_wrapper] INFO: STARTING STEP 98
+2019-03-20 08:47:58,469 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,470 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT', 'BOMB']
+2019-03-20 08:47:58,473 [simple_agent_2_code] DEBUG: Suitable target found at (5, 8)
+2019-03-20 08:47:58,474 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:58,570 [simple_agent_2_wrapper] INFO: STARTING STEP 99
+2019-03-20 08:47:58,571 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,573 [simple_agent_2_code] DEBUG: Valid actions: ['UP']
+2019-03-20 08:47:58,577 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:58,578 [simple_agent_2_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:58,672 [simple_agent_2_wrapper] INFO: STARTING STEP 100
+2019-03-20 08:47:58,673 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,674 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-03-20 08:47:58,680 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:58,681 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-20 08:47:58,775 [simple_agent_2_wrapper] INFO: STARTING STEP 101
+2019-03-20 08:47:58,775 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,776 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT']
+2019-03-20 08:47:58,777 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:58,777 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:58,878 [simple_agent_2_wrapper] INFO: STARTING STEP 102
+2019-03-20 08:47:58,879 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,880 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'WAIT']
+2019-03-20 08:47:58,886 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:58,886 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:58,979 [simple_agent_2_wrapper] INFO: STARTING STEP 103
+2019-03-20 08:47:58,979 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:58,980 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT']
+2019-03-20 08:47:58,984 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:58,985 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:59,079 [simple_agent_2_wrapper] INFO: STARTING STEP 104
+2019-03-20 08:47:59,080 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,080 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:59,087 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:59,087 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:59,183 [simple_agent_2_wrapper] INFO: STARTING STEP 105
+2019-03-20 08:47:59,184 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,184 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:59,189 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:59,189 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:59,285 [simple_agent_2_wrapper] INFO: STARTING STEP 106
+2019-03-20 08:47:59,285 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,287 [simple_agent_2_code] DEBUG: Valid actions: ['LEFT', 'RIGHT', 'UP', 'DOWN', 'WAIT', 'BOMB']
+2019-03-20 08:47:59,291 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:59,292 [simple_agent_2_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:59,411 [simple_agent_2_wrapper] INFO: STARTING STEP 107
+2019-03-20 08:47:59,412 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,412 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'WAIT', 'BOMB']
+2019-03-20 08:47:59,416 [simple_agent_2_code] DEBUG: Suitable target found at (4, 7)
+2019-03-20 08:47:59,417 [simple_agent_2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:59,495 [simple_agent_2_wrapper] INFO: STARTING STEP 108
+2019-03-20 08:47:59,495 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,496 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT']
+2019-03-20 08:47:59,527 [simple_agent_2_code] DEBUG: Suitable target found at (3, 8)
+2019-03-20 08:47:59,527 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.032s of thinking
+2019-03-20 08:47:59,596 [simple_agent_2_wrapper] INFO: STARTING STEP 109
+2019-03-20 08:47:59,597 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,597 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:59,620 [simple_agent_2_code] DEBUG: Suitable target found at (3, 8)
+2019-03-20 08:47:59,620 [simple_agent_2_wrapper] INFO: Chose action DOWN after 0.024s of thinking
+2019-03-20 08:47:59,696 [simple_agent_2_wrapper] INFO: STARTING STEP 110
+2019-03-20 08:47:59,696 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,696 [simple_agent_2_code] DEBUG: Valid actions: ['UP', 'WAIT']
+2019-03-20 08:47:59,702 [simple_agent_2_code] DEBUG: Suitable target found at (3, 8)
+2019-03-20 08:47:59,702 [simple_agent_2_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:59,810 [simple_agent_2_wrapper] INFO: STARTING STEP 111
+2019-03-20 08:47:59,811 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,812 [simple_agent_2_code] DEBUG: Valid actions: ['RIGHT', 'UP', 'DOWN', 'WAIT']
+2019-03-20 08:47:59,836 [simple_agent_2_code] DEBUG: Suitable target found at (3, 8)
+2019-03-20 08:47:59,837 [simple_agent_2_wrapper] INFO: Chose action RIGHT after 0.026s of thinking
+2019-03-20 08:47:59,905 [simple_agent_2_wrapper] INFO: STARTING STEP 112
+2019-03-20 08:47:59,906 [simple_agent_2_code] INFO: Picking action according to rule set
+2019-03-20 08:47:59,906 [simple_agent_2_code] DEBUG: Valid actions: []
+2019-03-20 08:47:59,911 [simple_agent_2_code] DEBUG: Suitable target found at (3, 8)
+2019-03-20 08:47:59,912 [simple_agent_2_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-03-20 08:47:59,916 [simple_agent_2_wrapper] INFO: Received exit message for round
+2019-03-20 08:47:59,916 [simple_agent_2_wrapper] INFO: Round #2 finished
+2019-03-20 08:48:08,491 [simple_agent_2_wrapper] INFO: Received global exit message
+2019-03-20 08:48:08,491 [simple_agent_2_wrapper] INFO: SHUT DOWN

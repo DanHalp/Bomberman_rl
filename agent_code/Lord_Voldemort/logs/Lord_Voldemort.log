@@ -1,871 +1,1069 @@
-2019-03-19 15:33:32,008 [Lord_Voldemort_wrapper] INFO: Import agent code from "agent_code/Lord_Voldemort/callbacks.py"
-2019-03-19 15:33:32,017 [Lord_Voldemort_wrapper] INFO: Initialize agent code
-2019-03-19 15:33:33,382 [Lord_Voldemort_wrapper] INFO: STARTING ROUND #1
-2019-03-19 15:33:33,483 [Lord_Voldemort_wrapper] INFO: STARTING STEP 1
-2019-03-19 15:33:33,484 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:33,485 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:33,585 [Lord_Voldemort_wrapper] INFO: STARTING STEP 2
-2019-03-19 15:33:33,585 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:33,585 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.000s of thinking
-2019-03-19 15:33:33,687 [Lord_Voldemort_wrapper] INFO: STARTING STEP 3
-2019-03-19 15:33:33,688 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:33,694 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:33,789 [Lord_Voldemort_wrapper] INFO: STARTING STEP 4
-2019-03-19 15:33:33,790 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:33,794 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:33,891 [Lord_Voldemort_wrapper] INFO: STARTING STEP 5
-2019-03-19 15:33:33,892 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:33,896 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:33,992 [Lord_Voldemort_wrapper] INFO: STARTING STEP 6
-2019-03-19 15:33:33,993 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:33,998 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:34,094 [Lord_Voldemort_wrapper] INFO: STARTING STEP 7
-2019-03-19 15:33:34,095 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,098 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:34,208 [Lord_Voldemort_wrapper] INFO: STARTING STEP 8
-2019-03-19 15:33:34,209 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,212 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:34,321 [Lord_Voldemort_wrapper] INFO: STARTING STEP 9
-2019-03-19 15:33:34,321 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,325 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:34,424 [Lord_Voldemort_wrapper] INFO: STARTING STEP 10
-2019-03-19 15:33:34,426 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,430 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:34,519 [Lord_Voldemort_wrapper] INFO: STARTING STEP 11
-2019-03-19 15:33:34,520 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,525 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:34,621 [Lord_Voldemort_wrapper] INFO: STARTING STEP 12
-2019-03-19 15:33:34,622 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,624 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:34,722 [Lord_Voldemort_wrapper] INFO: STARTING STEP 13
-2019-03-19 15:33:34,723 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,726 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:34,824 [Lord_Voldemort_wrapper] INFO: STARTING STEP 14
-2019-03-19 15:33:34,825 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,827 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:34,927 [Lord_Voldemort_wrapper] INFO: STARTING STEP 15
-2019-03-19 15:33:34,927 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:34,928 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:35,027 [Lord_Voldemort_wrapper] INFO: STARTING STEP 16
-2019-03-19 15:33:35,027 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,028 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:35,130 [Lord_Voldemort_wrapper] INFO: STARTING STEP 17
-2019-03-19 15:33:35,130 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,131 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:35,234 [Lord_Voldemort_wrapper] INFO: STARTING STEP 18
-2019-03-19 15:33:35,235 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,236 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:35,335 [Lord_Voldemort_wrapper] INFO: STARTING STEP 19
-2019-03-19 15:33:35,335 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,339 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:35,437 [Lord_Voldemort_wrapper] INFO: STARTING STEP 20
-2019-03-19 15:33:35,438 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,441 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:35,540 [Lord_Voldemort_wrapper] INFO: STARTING STEP 21
-2019-03-19 15:33:35,541 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,546 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:35,643 [Lord_Voldemort_wrapper] INFO: STARTING STEP 22
-2019-03-19 15:33:35,645 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,651 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.006s of thinking
-2019-03-19 15:33:35,762 [Lord_Voldemort_wrapper] INFO: STARTING STEP 23
-2019-03-19 15:33:35,763 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,766 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:35,854 [Lord_Voldemort_wrapper] INFO: STARTING STEP 24
-2019-03-19 15:33:35,854 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,856 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:35,956 [Lord_Voldemort_wrapper] INFO: STARTING STEP 25
-2019-03-19 15:33:35,956 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:35,961 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:36,058 [Lord_Voldemort_wrapper] INFO: STARTING STEP 26
-2019-03-19 15:33:36,059 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,064 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:36,160 [Lord_Voldemort_wrapper] INFO: STARTING STEP 27
-2019-03-19 15:33:36,161 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,167 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
-2019-03-19 15:33:36,261 [Lord_Voldemort_wrapper] INFO: STARTING STEP 28
-2019-03-19 15:33:36,262 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,268 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
-2019-03-19 15:33:36,363 [Lord_Voldemort_wrapper] INFO: STARTING STEP 29
-2019-03-19 15:33:36,364 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,378 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.014s of thinking
-2019-03-19 15:33:36,483 [Lord_Voldemort_wrapper] INFO: STARTING STEP 30
-2019-03-19 15:33:36,483 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,489 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:36,573 [Lord_Voldemort_wrapper] INFO: STARTING STEP 31
-2019-03-19 15:33:36,574 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,581 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
-2019-03-19 15:33:36,675 [Lord_Voldemort_wrapper] INFO: STARTING STEP 32
-2019-03-19 15:33:36,676 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,682 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:36,788 [Lord_Voldemort_wrapper] INFO: STARTING STEP 33
-2019-03-19 15:33:36,789 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,795 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:36,885 [Lord_Voldemort_wrapper] INFO: STARTING STEP 34
-2019-03-19 15:33:36,885 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,887 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:36,986 [Lord_Voldemort_wrapper] INFO: STARTING STEP 35
-2019-03-19 15:33:36,987 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:36,988 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:33:37,089 [Lord_Voldemort_wrapper] INFO: STARTING STEP 36
-2019-03-19 15:33:37,089 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,100 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.011s of thinking
-2019-03-19 15:33:37,200 [Lord_Voldemort_wrapper] INFO: STARTING STEP 37
-2019-03-19 15:33:37,200 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,201 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:33:37,297 [Lord_Voldemort_wrapper] INFO: STARTING STEP 38
-2019-03-19 15:33:37,298 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,299 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:37,400 [Lord_Voldemort_wrapper] INFO: STARTING STEP 39
-2019-03-19 15:33:37,400 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,408 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
-2019-03-19 15:33:37,501 [Lord_Voldemort_wrapper] INFO: STARTING STEP 40
-2019-03-19 15:33:37,502 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,507 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
-2019-03-19 15:33:37,606 [Lord_Voldemort_wrapper] INFO: STARTING STEP 41
-2019-03-19 15:33:37,606 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,613 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
-2019-03-19 15:33:37,718 [Lord_Voldemort_wrapper] INFO: STARTING STEP 42
-2019-03-19 15:33:37,718 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,729 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.011s of thinking
-2019-03-19 15:33:37,825 [Lord_Voldemort_wrapper] INFO: STARTING STEP 43
-2019-03-19 15:33:37,826 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,830 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:37,926 [Lord_Voldemort_wrapper] INFO: STARTING STEP 44
-2019-03-19 15:33:37,927 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:37,931 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:38,027 [Lord_Voldemort_wrapper] INFO: STARTING STEP 45
-2019-03-19 15:33:38,027 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,029 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:38,130 [Lord_Voldemort_wrapper] INFO: STARTING STEP 46
-2019-03-19 15:33:38,130 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,132 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:38,231 [Lord_Voldemort_wrapper] INFO: STARTING STEP 47
-2019-03-19 15:33:38,231 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,236 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:38,334 [Lord_Voldemort_wrapper] INFO: STARTING STEP 48
-2019-03-19 15:33:38,334 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,338 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
-2019-03-19 15:33:38,435 [Lord_Voldemort_wrapper] INFO: STARTING STEP 49
-2019-03-19 15:33:38,436 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,439 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:33:38,550 [Lord_Voldemort_wrapper] INFO: STARTING STEP 50
-2019-03-19 15:33:38,550 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,552 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:38,645 [Lord_Voldemort_wrapper] INFO: STARTING STEP 51
-2019-03-19 15:33:38,645 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,646 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:38,746 [Lord_Voldemort_wrapper] INFO: STARTING STEP 52
-2019-03-19 15:33:38,747 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,749 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:38,850 [Lord_Voldemort_wrapper] INFO: STARTING STEP 53
-2019-03-19 15:33:38,850 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,859 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
-2019-03-19 15:33:38,951 [Lord_Voldemort_wrapper] INFO: STARTING STEP 54
-2019-03-19 15:33:38,951 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:38,954 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:39,063 [Lord_Voldemort_wrapper] INFO: STARTING STEP 55
-2019-03-19 15:33:39,063 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,068 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:39,160 [Lord_Voldemort_wrapper] INFO: STARTING STEP 56
-2019-03-19 15:33:39,160 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,162 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:39,262 [Lord_Voldemort_wrapper] INFO: STARTING STEP 57
-2019-03-19 15:33:39,262 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,265 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:33:39,364 [Lord_Voldemort_wrapper] INFO: STARTING STEP 58
-2019-03-19 15:33:39,365 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,372 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
-2019-03-19 15:33:39,466 [Lord_Voldemort_wrapper] INFO: STARTING STEP 59
-2019-03-19 15:33:39,466 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,471 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
-2019-03-19 15:33:39,579 [Lord_Voldemort_wrapper] INFO: STARTING STEP 60
-2019-03-19 15:33:39,579 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,586 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
-2019-03-19 15:33:39,669 [Lord_Voldemort_wrapper] INFO: STARTING STEP 61
-2019-03-19 15:33:39,669 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,671 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:39,773 [Lord_Voldemort_wrapper] INFO: STARTING STEP 62
-2019-03-19 15:33:39,774 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,781 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
-2019-03-19 15:33:39,874 [Lord_Voldemort_wrapper] INFO: STARTING STEP 63
-2019-03-19 15:33:39,874 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,876 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:39,978 [Lord_Voldemort_wrapper] INFO: STARTING STEP 64
-2019-03-19 15:33:39,978 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:39,987 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
-2019-03-19 15:33:40,079 [Lord_Voldemort_wrapper] INFO: STARTING STEP 65
-2019-03-19 15:33:40,079 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,080 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:40,181 [Lord_Voldemort_wrapper] INFO: STARTING STEP 66
-2019-03-19 15:33:40,181 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,187 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
-2019-03-19 15:33:40,295 [Lord_Voldemort_wrapper] INFO: STARTING STEP 67
-2019-03-19 15:33:40,295 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,300 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:40,398 [Lord_Voldemort_wrapper] INFO: STARTING STEP 68
-2019-03-19 15:33:40,398 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,402 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:40,496 [Lord_Voldemort_wrapper] INFO: STARTING STEP 69
-2019-03-19 15:33:40,497 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,500 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:40,597 [Lord_Voldemort_wrapper] INFO: STARTING STEP 70
-2019-03-19 15:33:40,597 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,599 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:40,698 [Lord_Voldemort_wrapper] INFO: STARTING STEP 71
-2019-03-19 15:33:40,698 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,699 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:40,800 [Lord_Voldemort_wrapper] INFO: STARTING STEP 72
-2019-03-19 15:33:40,800 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,802 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:40,902 [Lord_Voldemort_wrapper] INFO: STARTING STEP 73
-2019-03-19 15:33:40,902 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:40,903 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:41,003 [Lord_Voldemort_wrapper] INFO: STARTING STEP 74
-2019-03-19 15:33:41,003 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,005 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:41,105 [Lord_Voldemort_wrapper] INFO: STARTING STEP 75
-2019-03-19 15:33:41,105 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,106 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:33:41,208 [Lord_Voldemort_wrapper] INFO: STARTING STEP 76
-2019-03-19 15:33:41,208 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,209 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:41,310 [Lord_Voldemort_wrapper] INFO: STARTING STEP 77
-2019-03-19 15:33:41,310 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,311 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:41,413 [Lord_Voldemort_wrapper] INFO: STARTING STEP 78
-2019-03-19 15:33:41,413 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,415 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:41,515 [Lord_Voldemort_wrapper] INFO: STARTING STEP 79
-2019-03-19 15:33:41,515 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,517 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:41,618 [Lord_Voldemort_wrapper] INFO: STARTING STEP 80
-2019-03-19 15:33:41,618 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,619 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:41,720 [Lord_Voldemort_wrapper] INFO: STARTING STEP 81
-2019-03-19 15:33:41,720 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,722 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:41,822 [Lord_Voldemort_wrapper] INFO: STARTING STEP 82
-2019-03-19 15:33:41,822 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,823 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:41,924 [Lord_Voldemort_wrapper] INFO: STARTING STEP 83
-2019-03-19 15:33:41,924 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:41,926 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:42,026 [Lord_Voldemort_wrapper] INFO: STARTING STEP 84
-2019-03-19 15:33:42,026 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,027 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:42,129 [Lord_Voldemort_wrapper] INFO: STARTING STEP 85
-2019-03-19 15:33:42,129 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,131 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:42,232 [Lord_Voldemort_wrapper] INFO: STARTING STEP 86
-2019-03-19 15:33:42,232 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,233 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:42,332 [Lord_Voldemort_wrapper] INFO: STARTING STEP 87
-2019-03-19 15:33:42,332 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,333 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:42,446 [Lord_Voldemort_wrapper] INFO: STARTING STEP 88
-2019-03-19 15:33:42,447 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,451 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:42,542 [Lord_Voldemort_wrapper] INFO: STARTING STEP 89
-2019-03-19 15:33:42,542 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,545 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:42,644 [Lord_Voldemort_wrapper] INFO: STARTING STEP 90
-2019-03-19 15:33:42,644 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,647 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:42,745 [Lord_Voldemort_wrapper] INFO: STARTING STEP 91
-2019-03-19 15:33:42,745 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,749 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:42,847 [Lord_Voldemort_wrapper] INFO: STARTING STEP 92
-2019-03-19 15:33:42,848 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,850 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:42,950 [Lord_Voldemort_wrapper] INFO: STARTING STEP 93
-2019-03-19 15:33:42,950 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:42,954 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:43,059 [Lord_Voldemort_wrapper] INFO: STARTING STEP 94
-2019-03-19 15:33:43,059 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,062 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:43,158 [Lord_Voldemort_wrapper] INFO: STARTING STEP 95
-2019-03-19 15:33:43,158 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,160 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:43,260 [Lord_Voldemort_wrapper] INFO: STARTING STEP 96
-2019-03-19 15:33:43,260 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,263 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:43,363 [Lord_Voldemort_wrapper] INFO: STARTING STEP 97
-2019-03-19 15:33:43,364 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,369 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:43,475 [Lord_Voldemort_wrapper] INFO: STARTING STEP 98
-2019-03-19 15:33:43,476 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,479 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:43,578 [Lord_Voldemort_wrapper] INFO: STARTING STEP 99
-2019-03-19 15:33:43,578 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,582 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:43,677 [Lord_Voldemort_wrapper] INFO: STARTING STEP 100
-2019-03-19 15:33:43,677 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,679 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:43,780 [Lord_Voldemort_wrapper] INFO: STARTING STEP 101
-2019-03-19 15:33:43,780 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,782 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:43,883 [Lord_Voldemort_wrapper] INFO: STARTING STEP 102
-2019-03-19 15:33:43,883 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,889 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
-2019-03-19 15:33:43,984 [Lord_Voldemort_wrapper] INFO: STARTING STEP 103
-2019-03-19 15:33:43,984 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:43,987 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:44,098 [Lord_Voldemort_wrapper] INFO: STARTING STEP 104
-2019-03-19 15:33:44,098 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,103 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:44,201 [Lord_Voldemort_wrapper] INFO: STARTING STEP 105
-2019-03-19 15:33:44,202 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,206 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:44,305 [Lord_Voldemort_wrapper] INFO: STARTING STEP 106
-2019-03-19 15:33:44,305 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,310 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:44,405 [Lord_Voldemort_wrapper] INFO: STARTING STEP 107
-2019-03-19 15:33:44,406 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,408 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:44,507 [Lord_Voldemort_wrapper] INFO: STARTING STEP 108
-2019-03-19 15:33:44,508 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,513 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:44,609 [Lord_Voldemort_wrapper] INFO: STARTING STEP 109
-2019-03-19 15:33:44,610 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,615 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:44,711 [Lord_Voldemort_wrapper] INFO: STARTING STEP 110
-2019-03-19 15:33:44,712 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,717 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:44,825 [Lord_Voldemort_wrapper] INFO: STARTING STEP 111
-2019-03-19 15:33:44,825 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,830 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:44,922 [Lord_Voldemort_wrapper] INFO: STARTING STEP 112
-2019-03-19 15:33:44,922 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:44,925 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
-2019-03-19 15:33:45,023 [Lord_Voldemort_wrapper] INFO: STARTING STEP 113
-2019-03-19 15:33:45,024 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,032 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.008s of thinking
-2019-03-19 15:33:45,124 [Lord_Voldemort_wrapper] INFO: STARTING STEP 114
-2019-03-19 15:33:45,125 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,132 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
-2019-03-19 15:33:45,227 [Lord_Voldemort_wrapper] INFO: STARTING STEP 115
-2019-03-19 15:33:45,227 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,231 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:45,328 [Lord_Voldemort_wrapper] INFO: STARTING STEP 116
-2019-03-19 15:33:45,328 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,330 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:45,441 [Lord_Voldemort_wrapper] INFO: STARTING STEP 117
-2019-03-19 15:33:45,441 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,448 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
-2019-03-19 15:33:45,541 [Lord_Voldemort_wrapper] INFO: STARTING STEP 118
-2019-03-19 15:33:45,542 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,543 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:45,642 [Lord_Voldemort_wrapper] INFO: STARTING STEP 119
-2019-03-19 15:33:45,643 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,647 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:45,744 [Lord_Voldemort_wrapper] INFO: STARTING STEP 120
-2019-03-19 15:33:45,745 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,748 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:45,846 [Lord_Voldemort_wrapper] INFO: STARTING STEP 121
-2019-03-19 15:33:45,847 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,851 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:45,951 [Lord_Voldemort_wrapper] INFO: STARTING STEP 122
-2019-03-19 15:33:45,951 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:45,952 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:33:46,052 [Lord_Voldemort_wrapper] INFO: STARTING STEP 123
-2019-03-19 15:33:46,053 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,056 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:33:46,155 [Lord_Voldemort_wrapper] INFO: STARTING STEP 124
-2019-03-19 15:33:46,156 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,165 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.009s of thinking
-2019-03-19 15:33:46,257 [Lord_Voldemort_wrapper] INFO: STARTING STEP 125
-2019-03-19 15:33:46,258 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,262 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:46,371 [Lord_Voldemort_wrapper] INFO: STARTING STEP 126
-2019-03-19 15:33:46,371 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,377 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:46,466 [Lord_Voldemort_wrapper] INFO: STARTING STEP 127
-2019-03-19 15:33:46,467 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,470 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:46,568 [Lord_Voldemort_wrapper] INFO: STARTING STEP 128
-2019-03-19 15:33:46,568 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,572 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:46,669 [Lord_Voldemort_wrapper] INFO: STARTING STEP 129
-2019-03-19 15:33:46,669 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,671 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:46,784 [Lord_Voldemort_wrapper] INFO: STARTING STEP 130
-2019-03-19 15:33:46,785 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,791 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:46,878 [Lord_Voldemort_wrapper] INFO: STARTING STEP 131
-2019-03-19 15:33:46,879 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,880 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:46,980 [Lord_Voldemort_wrapper] INFO: STARTING STEP 132
-2019-03-19 15:33:46,980 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:46,983 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:47,084 [Lord_Voldemort_wrapper] INFO: STARTING STEP 133
-2019-03-19 15:33:47,085 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,090 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:47,185 [Lord_Voldemort_wrapper] INFO: STARTING STEP 134
-2019-03-19 15:33:47,186 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,188 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:47,298 [Lord_Voldemort_wrapper] INFO: STARTING STEP 135
-2019-03-19 15:33:47,298 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,307 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.009s of thinking
-2019-03-19 15:33:47,394 [Lord_Voldemort_wrapper] INFO: STARTING STEP 136
-2019-03-19 15:33:47,395 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,400 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:47,497 [Lord_Voldemort_wrapper] INFO: STARTING STEP 137
-2019-03-19 15:33:47,497 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,502 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:47,598 [Lord_Voldemort_wrapper] INFO: STARTING STEP 138
-2019-03-19 15:33:47,599 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,603 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:47,699 [Lord_Voldemort_wrapper] INFO: STARTING STEP 139
-2019-03-19 15:33:47,699 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,702 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:47,801 [Lord_Voldemort_wrapper] INFO: STARTING STEP 140
-2019-03-19 15:33:47,802 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,804 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:47,915 [Lord_Voldemort_wrapper] INFO: STARTING STEP 141
-2019-03-19 15:33:47,915 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:47,918 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:48,010 [Lord_Voldemort_wrapper] INFO: STARTING STEP 142
-2019-03-19 15:33:48,010 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,011 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:48,112 [Lord_Voldemort_wrapper] INFO: STARTING STEP 143
-2019-03-19 15:33:48,112 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,115 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:48,214 [Lord_Voldemort_wrapper] INFO: STARTING STEP 144
-2019-03-19 15:33:48,215 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,218 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:48,316 [Lord_Voldemort_wrapper] INFO: STARTING STEP 145
-2019-03-19 15:33:48,317 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,321 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:48,435 [Lord_Voldemort_wrapper] INFO: STARTING STEP 146
-2019-03-19 15:33:48,436 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,443 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
-2019-03-19 15:33:48,526 [Lord_Voldemort_wrapper] INFO: STARTING STEP 147
-2019-03-19 15:33:48,527 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,530 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:48,629 [Lord_Voldemort_wrapper] INFO: STARTING STEP 148
-2019-03-19 15:33:48,629 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,631 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:48,731 [Lord_Voldemort_wrapper] INFO: STARTING STEP 149
-2019-03-19 15:33:48,732 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,736 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:48,833 [Lord_Voldemort_wrapper] INFO: STARTING STEP 150
-2019-03-19 15:33:48,834 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,836 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:48,945 [Lord_Voldemort_wrapper] INFO: STARTING STEP 151
-2019-03-19 15:33:48,945 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:48,953 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
-2019-03-19 15:33:49,045 [Lord_Voldemort_wrapper] INFO: STARTING STEP 152
-2019-03-19 15:33:49,045 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,048 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:49,146 [Lord_Voldemort_wrapper] INFO: STARTING STEP 153
-2019-03-19 15:33:49,146 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,148 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:49,248 [Lord_Voldemort_wrapper] INFO: STARTING STEP 154
-2019-03-19 15:33:49,249 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,251 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:49,351 [Lord_Voldemort_wrapper] INFO: STARTING STEP 155
-2019-03-19 15:33:49,352 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,356 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:49,463 [Lord_Voldemort_wrapper] INFO: STARTING STEP 156
-2019-03-19 15:33:49,464 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,466 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:49,560 [Lord_Voldemort_wrapper] INFO: STARTING STEP 157
-2019-03-19 15:33:49,560 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,563 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:49,662 [Lord_Voldemort_wrapper] INFO: STARTING STEP 158
-2019-03-19 15:33:49,662 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,667 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
-2019-03-19 15:33:49,762 [Lord_Voldemort_wrapper] INFO: STARTING STEP 159
-2019-03-19 15:33:49,763 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,766 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:49,865 [Lord_Voldemort_wrapper] INFO: STARTING STEP 160
-2019-03-19 15:33:49,866 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,870 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:49,975 [Lord_Voldemort_wrapper] INFO: STARTING STEP 161
-2019-03-19 15:33:49,976 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:49,980 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:50,072 [Lord_Voldemort_wrapper] INFO: STARTING STEP 162
-2019-03-19 15:33:50,072 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,076 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:50,173 [Lord_Voldemort_wrapper] INFO: STARTING STEP 163
-2019-03-19 15:33:50,174 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,176 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:50,287 [Lord_Voldemort_wrapper] INFO: STARTING STEP 164
-2019-03-19 15:33:50,287 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,290 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:50,379 [Lord_Voldemort_wrapper] INFO: STARTING STEP 165
-2019-03-19 15:33:50,379 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,384 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:50,480 [Lord_Voldemort_wrapper] INFO: STARTING STEP 166
-2019-03-19 15:33:50,481 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,484 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:50,581 [Lord_Voldemort_wrapper] INFO: STARTING STEP 167
-2019-03-19 15:33:50,581 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,584 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:50,682 [Lord_Voldemort_wrapper] INFO: STARTING STEP 168
-2019-03-19 15:33:50,682 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,684 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:50,791 [Lord_Voldemort_wrapper] INFO: STARTING STEP 169
-2019-03-19 15:33:50,791 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,795 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:50,896 [Lord_Voldemort_wrapper] INFO: STARTING STEP 170
-2019-03-19 15:33:50,897 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,902 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:50,994 [Lord_Voldemort_wrapper] INFO: STARTING STEP 171
-2019-03-19 15:33:50,995 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:50,997 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:51,096 [Lord_Voldemort_wrapper] INFO: STARTING STEP 172
-2019-03-19 15:33:51,096 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,099 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:51,197 [Lord_Voldemort_wrapper] INFO: STARTING STEP 173
-2019-03-19 15:33:51,198 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,200 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:51,306 [Lord_Voldemort_wrapper] INFO: STARTING STEP 174
-2019-03-19 15:33:51,307 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,309 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:51,407 [Lord_Voldemort_wrapper] INFO: STARTING STEP 175
-2019-03-19 15:33:51,407 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,409 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:51,509 [Lord_Voldemort_wrapper] INFO: STARTING STEP 176
-2019-03-19 15:33:51,509 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,511 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:51,611 [Lord_Voldemort_wrapper] INFO: STARTING STEP 177
-2019-03-19 15:33:51,612 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,613 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:51,725 [Lord_Voldemort_wrapper] INFO: STARTING STEP 178
-2019-03-19 15:33:51,726 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,729 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:51,820 [Lord_Voldemort_wrapper] INFO: STARTING STEP 179
-2019-03-19 15:33:51,821 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,825 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:51,921 [Lord_Voldemort_wrapper] INFO: STARTING STEP 180
-2019-03-19 15:33:51,921 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:51,925 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:52,023 [Lord_Voldemort_wrapper] INFO: STARTING STEP 181
-2019-03-19 15:33:52,023 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,027 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:52,131 [Lord_Voldemort_wrapper] INFO: STARTING STEP 182
-2019-03-19 15:33:52,133 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,134 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:52,227 [Lord_Voldemort_wrapper] INFO: STARTING STEP 183
-2019-03-19 15:33:52,228 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,230 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:52,330 [Lord_Voldemort_wrapper] INFO: STARTING STEP 184
-2019-03-19 15:33:52,330 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,333 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:52,431 [Lord_Voldemort_wrapper] INFO: STARTING STEP 185
-2019-03-19 15:33:52,432 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,436 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:52,533 [Lord_Voldemort_wrapper] INFO: STARTING STEP 186
-2019-03-19 15:33:52,534 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,537 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:52,646 [Lord_Voldemort_wrapper] INFO: STARTING STEP 187
-2019-03-19 15:33:52,647 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,651 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:52,743 [Lord_Voldemort_wrapper] INFO: STARTING STEP 188
-2019-03-19 15:33:52,744 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,748 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:52,845 [Lord_Voldemort_wrapper] INFO: STARTING STEP 189
-2019-03-19 15:33:52,846 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,848 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:52,947 [Lord_Voldemort_wrapper] INFO: STARTING STEP 190
-2019-03-19 15:33:52,948 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:52,951 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:53,049 [Lord_Voldemort_wrapper] INFO: STARTING STEP 191
-2019-03-19 15:33:53,050 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,053 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
-2019-03-19 15:33:53,164 [Lord_Voldemort_wrapper] INFO: STARTING STEP 192
-2019-03-19 15:33:53,164 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,171 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
-2019-03-19 15:33:53,258 [Lord_Voldemort_wrapper] INFO: STARTING STEP 193
-2019-03-19 15:33:53,259 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,261 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:53,360 [Lord_Voldemort_wrapper] INFO: STARTING STEP 194
-2019-03-19 15:33:53,360 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,361 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:53,462 [Lord_Voldemort_wrapper] INFO: STARTING STEP 195
-2019-03-19 15:33:53,463 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,472 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.009s of thinking
-2019-03-19 15:33:53,564 [Lord_Voldemort_wrapper] INFO: STARTING STEP 196
-2019-03-19 15:33:53,565 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,569 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:53,665 [Lord_Voldemort_wrapper] INFO: STARTING STEP 197
-2019-03-19 15:33:53,665 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,667 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:33:53,767 [Lord_Voldemort_wrapper] INFO: STARTING STEP 198
-2019-03-19 15:33:53,767 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,770 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:53,869 [Lord_Voldemort_wrapper] INFO: STARTING STEP 199
-2019-03-19 15:33:53,870 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,876 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:53,971 [Lord_Voldemort_wrapper] INFO: STARTING STEP 200
-2019-03-19 15:33:53,971 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:53,973 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:54,085 [Lord_Voldemort_wrapper] INFO: STARTING STEP 201
-2019-03-19 15:33:54,086 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,093 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
-2019-03-19 15:33:54,181 [Lord_Voldemort_wrapper] INFO: STARTING STEP 202
-2019-03-19 15:33:54,181 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,182 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:54,283 [Lord_Voldemort_wrapper] INFO: STARTING STEP 203
-2019-03-19 15:33:54,284 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,287 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:54,386 [Lord_Voldemort_wrapper] INFO: STARTING STEP 204
-2019-03-19 15:33:54,386 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,388 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:33:54,488 [Lord_Voldemort_wrapper] INFO: STARTING STEP 205
-2019-03-19 15:33:54,488 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,491 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:54,596 [Lord_Voldemort_wrapper] INFO: STARTING STEP 206
-2019-03-19 15:33:54,597 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,601 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:54,697 [Lord_Voldemort_wrapper] INFO: STARTING STEP 207
-2019-03-19 15:33:54,698 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,701 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:54,799 [Lord_Voldemort_wrapper] INFO: STARTING STEP 208
-2019-03-19 15:33:54,799 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,802 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:54,901 [Lord_Voldemort_wrapper] INFO: STARTING STEP 209
-2019-03-19 15:33:54,901 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:54,905 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:33:55,004 [Lord_Voldemort_wrapper] INFO: STARTING STEP 210
-2019-03-19 15:33:55,005 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,007 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
-2019-03-19 15:33:55,114 [Lord_Voldemort_wrapper] INFO: STARTING STEP 211
-2019-03-19 15:33:55,115 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,119 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:55,211 [Lord_Voldemort_wrapper] INFO: STARTING STEP 212
-2019-03-19 15:33:55,211 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,217 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:55,313 [Lord_Voldemort_wrapper] INFO: STARTING STEP 213
-2019-03-19 15:33:55,314 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,320 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:55,414 [Lord_Voldemort_wrapper] INFO: STARTING STEP 214
-2019-03-19 15:33:55,415 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,418 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:33:55,516 [Lord_Voldemort_wrapper] INFO: STARTING STEP 215
-2019-03-19 15:33:55,517 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,523 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:55,619 [Lord_Voldemort_wrapper] INFO: STARTING STEP 216
-2019-03-19 15:33:55,620 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,621 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:55,731 [Lord_Voldemort_wrapper] INFO: STARTING STEP 217
-2019-03-19 15:33:55,731 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,735 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:55,830 [Lord_Voldemort_wrapper] INFO: STARTING STEP 218
-2019-03-19 15:33:55,831 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,834 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:33:55,931 [Lord_Voldemort_wrapper] INFO: STARTING STEP 219
-2019-03-19 15:33:55,932 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:55,940 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.008s of thinking
-2019-03-19 15:33:56,033 [Lord_Voldemort_wrapper] INFO: STARTING STEP 220
-2019-03-19 15:33:56,033 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,034 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:56,136 [Lord_Voldemort_wrapper] INFO: STARTING STEP 221
-2019-03-19 15:33:56,137 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,142 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
-2019-03-19 15:33:56,252 [Lord_Voldemort_wrapper] INFO: STARTING STEP 222
-2019-03-19 15:33:56,253 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,256 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:33:56,345 [Lord_Voldemort_wrapper] INFO: STARTING STEP 223
-2019-03-19 15:33:56,346 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,348 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:56,447 [Lord_Voldemort_wrapper] INFO: STARTING STEP 224
-2019-03-19 15:33:56,448 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,455 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
-2019-03-19 15:33:56,548 [Lord_Voldemort_wrapper] INFO: STARTING STEP 225
-2019-03-19 15:33:56,548 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,551 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:56,650 [Lord_Voldemort_wrapper] INFO: STARTING STEP 226
-2019-03-19 15:33:56,650 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,651 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:33:56,752 [Lord_Voldemort_wrapper] INFO: STARTING STEP 227
-2019-03-19 15:33:56,752 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,753 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:56,855 [Lord_Voldemort_wrapper] INFO: STARTING STEP 228
-2019-03-19 15:33:56,855 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,856 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:56,957 [Lord_Voldemort_wrapper] INFO: STARTING STEP 229
-2019-03-19 15:33:56,957 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:56,958 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:57,059 [Lord_Voldemort_wrapper] INFO: STARTING STEP 230
-2019-03-19 15:33:57,059 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,061 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:57,166 [Lord_Voldemort_wrapper] INFO: STARTING STEP 231
-2019-03-19 15:33:57,166 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,167 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:57,263 [Lord_Voldemort_wrapper] INFO: STARTING STEP 232
-2019-03-19 15:33:57,263 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,264 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:57,365 [Lord_Voldemort_wrapper] INFO: STARTING STEP 233
-2019-03-19 15:33:57,365 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,366 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:57,467 [Lord_Voldemort_wrapper] INFO: STARTING STEP 234
-2019-03-19 15:33:57,467 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,468 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:57,569 [Lord_Voldemort_wrapper] INFO: STARTING STEP 235
-2019-03-19 15:33:57,569 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,570 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:57,671 [Lord_Voldemort_wrapper] INFO: STARTING STEP 236
-2019-03-19 15:33:57,671 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,674 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:33:57,772 [Lord_Voldemort_wrapper] INFO: STARTING STEP 237
-2019-03-19 15:33:57,772 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,773 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:57,874 [Lord_Voldemort_wrapper] INFO: STARTING STEP 238
-2019-03-19 15:33:57,874 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,875 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:57,976 [Lord_Voldemort_wrapper] INFO: STARTING STEP 239
-2019-03-19 15:33:57,976 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:57,977 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:33:58,077 [Lord_Voldemort_wrapper] INFO: STARTING STEP 240
-2019-03-19 15:33:58,077 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,078 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:33:58,179 [Lord_Voldemort_wrapper] INFO: STARTING STEP 241
-2019-03-19 15:33:58,179 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,180 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:58,281 [Lord_Voldemort_wrapper] INFO: STARTING STEP 242
-2019-03-19 15:33:58,282 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,283 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:33:58,383 [Lord_Voldemort_wrapper] INFO: STARTING STEP 243
-2019-03-19 15:33:58,384 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,384 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.000s of thinking
-2019-03-19 15:33:58,491 [Lord_Voldemort_wrapper] INFO: STARTING STEP 244
-2019-03-19 15:33:58,491 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,496 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
-2019-03-19 15:33:58,592 [Lord_Voldemort_wrapper] INFO: STARTING STEP 245
-2019-03-19 15:33:58,593 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,596 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:33:58,698 [Lord_Voldemort_wrapper] INFO: STARTING STEP 246
-2019-03-19 15:33:58,699 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,705 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:58,801 [Lord_Voldemort_wrapper] INFO: STARTING STEP 247
-2019-03-19 15:33:58,801 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,807 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:33:58,900 [Lord_Voldemort_wrapper] INFO: STARTING STEP 248
-2019-03-19 15:33:58,901 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:58,902 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:33:59,011 [Lord_Voldemort_wrapper] INFO: STARTING STEP 249
-2019-03-19 15:33:59,012 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,015 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:33:59,112 [Lord_Voldemort_wrapper] INFO: STARTING STEP 250
-2019-03-19 15:33:59,112 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,117 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:33:59,215 [Lord_Voldemort_wrapper] INFO: STARTING STEP 251
-2019-03-19 15:33:59,215 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,218 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
-2019-03-19 15:33:59,319 [Lord_Voldemort_wrapper] INFO: STARTING STEP 252
-2019-03-19 15:33:59,319 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,325 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:33:59,421 [Lord_Voldemort_wrapper] INFO: STARTING STEP 253
-2019-03-19 15:33:59,422 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,426 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
-2019-03-19 15:33:59,522 [Lord_Voldemort_wrapper] INFO: STARTING STEP 254
-2019-03-19 15:33:59,523 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,527 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
-2019-03-19 15:33:59,636 [Lord_Voldemort_wrapper] INFO: STARTING STEP 255
-2019-03-19 15:33:59,636 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,638 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:59,733 [Lord_Voldemort_wrapper] INFO: STARTING STEP 256
-2019-03-19 15:33:59,733 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,735 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:33:59,834 [Lord_Voldemort_wrapper] INFO: STARTING STEP 257
-2019-03-19 15:33:59,834 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,835 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:33:59,936 [Lord_Voldemort_wrapper] INFO: STARTING STEP 258
-2019-03-19 15:33:59,936 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:33:59,938 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
-2019-03-19 15:34:00,036 [Lord_Voldemort_wrapper] INFO: STARTING STEP 259
-2019-03-19 15:34:00,036 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,037 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:34:00,150 [Lord_Voldemort_wrapper] INFO: STARTING STEP 260
-2019-03-19 15:34:00,150 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,152 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:34:00,246 [Lord_Voldemort_wrapper] INFO: STARTING STEP 261
-2019-03-19 15:34:00,247 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,251 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:34:00,349 [Lord_Voldemort_wrapper] INFO: STARTING STEP 262
-2019-03-19 15:34:00,349 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,350 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
-2019-03-19 15:34:00,452 [Lord_Voldemort_wrapper] INFO: STARTING STEP 263
-2019-03-19 15:34:00,453 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,457 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:34:00,557 [Lord_Voldemort_wrapper] INFO: STARTING STEP 264
-2019-03-19 15:34:00,558 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,562 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
-2019-03-19 15:34:00,666 [Lord_Voldemort_wrapper] INFO: STARTING STEP 265
-2019-03-19 15:34:00,666 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,669 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:34:00,762 [Lord_Voldemort_wrapper] INFO: STARTING STEP 266
-2019-03-19 15:34:00,763 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,770 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
-2019-03-19 15:34:00,864 [Lord_Voldemort_wrapper] INFO: STARTING STEP 267
-2019-03-19 15:34:00,865 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,868 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
-2019-03-19 15:34:00,966 [Lord_Voldemort_wrapper] INFO: STARTING STEP 268
-2019-03-19 15:34:00,967 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:00,971 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
-2019-03-19 15:34:01,068 [Lord_Voldemort_wrapper] INFO: STARTING STEP 269
-2019-03-19 15:34:01,069 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,071 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:34:01,170 [Lord_Voldemort_wrapper] INFO: STARTING STEP 270
-2019-03-19 15:34:01,170 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,176 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
-2019-03-19 15:34:01,272 [Lord_Voldemort_wrapper] INFO: STARTING STEP 271
-2019-03-19 15:34:01,273 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,275 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:34:01,381 [Lord_Voldemort_wrapper] INFO: STARTING STEP 272
-2019-03-19 15:34:01,382 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,384 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:34:01,482 [Lord_Voldemort_wrapper] INFO: STARTING STEP 273
-2019-03-19 15:34:01,482 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,483 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:34:01,584 [Lord_Voldemort_wrapper] INFO: STARTING STEP 274
-2019-03-19 15:34:01,584 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,585 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:34:01,686 [Lord_Voldemort_wrapper] INFO: STARTING STEP 275
-2019-03-19 15:34:01,687 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,693 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
-2019-03-19 15:34:01,800 [Lord_Voldemort_wrapper] INFO: STARTING STEP 276
-2019-03-19 15:34:01,800 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,802 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:34:01,896 [Lord_Voldemort_wrapper] INFO: STARTING STEP 277
-2019-03-19 15:34:01,896 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:01,899 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
-2019-03-19 15:34:01,997 [Lord_Voldemort_wrapper] INFO: STARTING STEP 278
-2019-03-19 15:34:01,998 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,001 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
-2019-03-19 15:34:02,100 [Lord_Voldemort_wrapper] INFO: STARTING STEP 279
-2019-03-19 15:34:02,100 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,102 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
-2019-03-19 15:34:02,201 [Lord_Voldemort_wrapper] INFO: STARTING STEP 280
-2019-03-19 15:34:02,202 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,203 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
-2019-03-19 15:34:02,312 [Lord_Voldemort_wrapper] INFO: STARTING STEP 281
-2019-03-19 15:34:02,313 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,315 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
-2019-03-19 15:34:02,409 [Lord_Voldemort_wrapper] INFO: STARTING STEP 282
-2019-03-19 15:34:02,409 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,411 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:34:02,511 [Lord_Voldemort_wrapper] INFO: STARTING STEP 283
-2019-03-19 15:34:02,511 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,513 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
-2019-03-19 15:34:02,613 [Lord_Voldemort_wrapper] INFO: STARTING STEP 284
-2019-03-19 15:34:02,614 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,617 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
-2019-03-19 15:34:02,716 [Lord_Voldemort_wrapper] INFO: STARTING STEP 285
-2019-03-19 15:34:02,716 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,717 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
-2019-03-19 15:34:02,821 [Lord_Voldemort_wrapper] INFO: STARTING STEP 286
-2019-03-19 15:34:02,821 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,823 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:34:02,922 [Lord_Voldemort_wrapper] INFO: STARTING STEP 287
-2019-03-19 15:34:02,922 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:02,923 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
-2019-03-19 15:34:03,024 [Lord_Voldemort_wrapper] INFO: STARTING STEP 288
-2019-03-19 15:34:03,024 [Lord_Voldemort_code] INFO: Pick action according to pressed key
-2019-03-19 15:34:03,025 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
-2019-03-19 15:34:03,127 [Lord_Voldemort_wrapper] INFO: Received exit message for round
-2019-03-19 15:34:03,128 [Lord_Voldemort_wrapper] INFO: Round #1 finished
-2019-03-19 15:34:06,607 [Lord_Voldemort_wrapper] INFO: Received global exit message
-2019-03-19 15:34:06,607 [Lord_Voldemort_wrapper] INFO: SHUT DOWN
+2019-03-20 08:47:14,014 [Lord_Voldemort_wrapper] INFO: Import agent code from "agent_code/Lord_Voldemort/callbacks.py"
+2019-03-20 08:47:14,049 [Lord_Voldemort_wrapper] INFO: Initialize agent code
+2019-03-20 08:47:15,785 [Lord_Voldemort_wrapper] INFO: STARTING ROUND #1
+2019-03-20 08:47:15,895 [Lord_Voldemort_wrapper] INFO: STARTING STEP 1
+2019-03-20 08:47:15,896 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:15,910 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.015s of thinking
+2019-03-20 08:47:15,996 [Lord_Voldemort_wrapper] INFO: STARTING STEP 2
+2019-03-20 08:47:15,996 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:15,997 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:16,096 [Lord_Voldemort_wrapper] INFO: STARTING STEP 3
+2019-03-20 08:47:16,096 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,099 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:16,199 [Lord_Voldemort_wrapper] INFO: STARTING STEP 4
+2019-03-20 08:47:16,199 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,202 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:16,300 [Lord_Voldemort_wrapper] INFO: STARTING STEP 5
+2019-03-20 08:47:16,301 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,304 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:16,402 [Lord_Voldemort_wrapper] INFO: STARTING STEP 6
+2019-03-20 08:47:16,403 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,410 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.007s of thinking
+2019-03-20 08:47:16,502 [Lord_Voldemort_wrapper] INFO: STARTING STEP 7
+2019-03-20 08:47:16,503 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,507 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:16,604 [Lord_Voldemort_wrapper] INFO: STARTING STEP 8
+2019-03-20 08:47:16,605 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,607 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:16,706 [Lord_Voldemort_wrapper] INFO: STARTING STEP 9
+2019-03-20 08:47:16,707 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,713 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:16,806 [Lord_Voldemort_wrapper] INFO: STARTING STEP 10
+2019-03-20 08:47:16,806 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,811 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:16,908 [Lord_Voldemort_wrapper] INFO: STARTING STEP 11
+2019-03-20 08:47:16,909 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:16,913 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:17,010 [Lord_Voldemort_wrapper] INFO: STARTING STEP 12
+2019-03-20 08:47:17,011 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,016 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:17,109 [Lord_Voldemort_wrapper] INFO: STARTING STEP 13
+2019-03-20 08:47:17,109 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,111 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:17,211 [Lord_Voldemort_wrapper] INFO: STARTING STEP 14
+2019-03-20 08:47:17,212 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,215 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:17,313 [Lord_Voldemort_wrapper] INFO: STARTING STEP 15
+2019-03-20 08:47:17,313 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,321 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:17,414 [Lord_Voldemort_wrapper] INFO: STARTING STEP 16
+2019-03-20 08:47:17,415 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,420 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:17,515 [Lord_Voldemort_wrapper] INFO: STARTING STEP 17
+2019-03-20 08:47:17,515 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,519 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:17,617 [Lord_Voldemort_wrapper] INFO: STARTING STEP 18
+2019-03-20 08:47:17,618 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,623 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:17,718 [Lord_Voldemort_wrapper] INFO: STARTING STEP 19
+2019-03-20 08:47:17,719 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,723 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:17,821 [Lord_Voldemort_wrapper] INFO: STARTING STEP 20
+2019-03-20 08:47:17,821 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,826 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:17,924 [Lord_Voldemort_wrapper] INFO: STARTING STEP 21
+2019-03-20 08:47:17,925 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:17,931 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:18,024 [Lord_Voldemort_wrapper] INFO: STARTING STEP 22
+2019-03-20 08:47:18,024 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,026 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:18,137 [Lord_Voldemort_wrapper] INFO: STARTING STEP 23
+2019-03-20 08:47:18,137 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,142 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:18,244 [Lord_Voldemort_wrapper] INFO: STARTING STEP 24
+2019-03-20 08:47:18,245 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,253 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:18,341 [Lord_Voldemort_wrapper] INFO: STARTING STEP 25
+2019-03-20 08:47:18,341 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,345 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:18,442 [Lord_Voldemort_wrapper] INFO: STARTING STEP 26
+2019-03-20 08:47:18,442 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,447 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:18,543 [Lord_Voldemort_wrapper] INFO: STARTING STEP 27
+2019-03-20 08:47:18,544 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,548 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:18,644 [Lord_Voldemort_wrapper] INFO: STARTING STEP 28
+2019-03-20 08:47:18,644 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,647 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:18,745 [Lord_Voldemort_wrapper] INFO: STARTING STEP 29
+2019-03-20 08:47:18,745 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,750 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:18,857 [Lord_Voldemort_wrapper] INFO: STARTING STEP 30
+2019-03-20 08:47:18,858 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,860 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:18,953 [Lord_Voldemort_wrapper] INFO: STARTING STEP 31
+2019-03-20 08:47:18,953 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:18,956 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:19,054 [Lord_Voldemort_wrapper] INFO: STARTING STEP 32
+2019-03-20 08:47:19,055 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,058 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:19,156 [Lord_Voldemort_wrapper] INFO: STARTING STEP 33
+2019-03-20 08:47:19,156 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,160 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:19,257 [Lord_Voldemort_wrapper] INFO: STARTING STEP 34
+2019-03-20 08:47:19,257 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,259 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:19,358 [Lord_Voldemort_wrapper] INFO: STARTING STEP 35
+2019-03-20 08:47:19,358 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,361 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:19,469 [Lord_Voldemort_wrapper] INFO: STARTING STEP 36
+2019-03-20 08:47:19,470 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,476 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:19,569 [Lord_Voldemort_wrapper] INFO: STARTING STEP 37
+2019-03-20 08:47:19,570 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,573 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:19,668 [Lord_Voldemort_wrapper] INFO: STARTING STEP 38
+2019-03-20 08:47:19,669 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,671 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:19,770 [Lord_Voldemort_wrapper] INFO: STARTING STEP 39
+2019-03-20 08:47:19,770 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,772 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:19,872 [Lord_Voldemort_wrapper] INFO: STARTING STEP 40
+2019-03-20 08:47:19,872 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,873 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:19,977 [Lord_Voldemort_wrapper] INFO: STARTING STEP 41
+2019-03-20 08:47:19,977 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:19,978 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:20,078 [Lord_Voldemort_wrapper] INFO: STARTING STEP 42
+2019-03-20 08:47:20,079 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,080 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:20,179 [Lord_Voldemort_wrapper] INFO: STARTING STEP 43
+2019-03-20 08:47:20,180 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,182 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:20,281 [Lord_Voldemort_wrapper] INFO: STARTING STEP 44
+2019-03-20 08:47:20,282 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,283 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:20,382 [Lord_Voldemort_wrapper] INFO: STARTING STEP 45
+2019-03-20 08:47:20,382 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,384 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:20,484 [Lord_Voldemort_wrapper] INFO: STARTING STEP 46
+2019-03-20 08:47:20,484 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,485 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:20,585 [Lord_Voldemort_wrapper] INFO: STARTING STEP 47
+2019-03-20 08:47:20,585 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,586 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:20,689 [Lord_Voldemort_wrapper] INFO: STARTING STEP 48
+2019-03-20 08:47:20,689 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,690 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:20,790 [Lord_Voldemort_wrapper] INFO: STARTING STEP 49
+2019-03-20 08:47:20,790 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,792 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:20,892 [Lord_Voldemort_wrapper] INFO: STARTING STEP 50
+2019-03-20 08:47:20,892 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,893 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:20,996 [Lord_Voldemort_wrapper] INFO: STARTING STEP 51
+2019-03-20 08:47:20,996 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:20,998 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:21,097 [Lord_Voldemort_wrapper] INFO: STARTING STEP 52
+2019-03-20 08:47:21,097 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,098 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:21,199 [Lord_Voldemort_wrapper] INFO: STARTING STEP 53
+2019-03-20 08:47:21,199 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,200 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:21,301 [Lord_Voldemort_wrapper] INFO: STARTING STEP 54
+2019-03-20 08:47:21,301 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,303 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:21,403 [Lord_Voldemort_wrapper] INFO: STARTING STEP 55
+2019-03-20 08:47:21,403 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,405 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:21,505 [Lord_Voldemort_wrapper] INFO: STARTING STEP 56
+2019-03-20 08:47:21,505 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,507 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:21,607 [Lord_Voldemort_wrapper] INFO: STARTING STEP 57
+2019-03-20 08:47:21,607 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,608 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:21,708 [Lord_Voldemort_wrapper] INFO: STARTING STEP 58
+2019-03-20 08:47:21,708 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,710 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:21,811 [Lord_Voldemort_wrapper] INFO: STARTING STEP 59
+2019-03-20 08:47:21,811 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,814 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:21,926 [Lord_Voldemort_wrapper] INFO: STARTING STEP 60
+2019-03-20 08:47:21,926 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:21,930 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:22,032 [Lord_Voldemort_wrapper] INFO: STARTING STEP 61
+2019-03-20 08:47:22,033 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,044 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.012s of thinking
+2019-03-20 08:47:22,134 [Lord_Voldemort_wrapper] INFO: STARTING STEP 62
+2019-03-20 08:47:22,135 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,140 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:22,236 [Lord_Voldemort_wrapper] INFO: STARTING STEP 63
+2019-03-20 08:47:22,236 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,242 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:22,336 [Lord_Voldemort_wrapper] INFO: STARTING STEP 64
+2019-03-20 08:47:22,337 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,341 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:22,438 [Lord_Voldemort_wrapper] INFO: STARTING STEP 65
+2019-03-20 08:47:22,438 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,445 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:22,536 [Lord_Voldemort_wrapper] INFO: STARTING STEP 66
+2019-03-20 08:47:22,536 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,538 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:22,639 [Lord_Voldemort_wrapper] INFO: STARTING STEP 67
+2019-03-20 08:47:22,641 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,648 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:22,742 [Lord_Voldemort_wrapper] INFO: STARTING STEP 68
+2019-03-20 08:47:22,742 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,745 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:22,849 [Lord_Voldemort_wrapper] INFO: STARTING STEP 69
+2019-03-20 08:47:22,849 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,854 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:22,956 [Lord_Voldemort_wrapper] INFO: STARTING STEP 70
+2019-03-20 08:47:22,957 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:22,964 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-20 08:47:23,056 [Lord_Voldemort_wrapper] INFO: STARTING STEP 71
+2019-03-20 08:47:23,057 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,060 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:23,158 [Lord_Voldemort_wrapper] INFO: STARTING STEP 72
+2019-03-20 08:47:23,161 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,163 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:23,259 [Lord_Voldemort_wrapper] INFO: STARTING STEP 73
+2019-03-20 08:47:23,259 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,261 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:23,361 [Lord_Voldemort_wrapper] INFO: STARTING STEP 74
+2019-03-20 08:47:23,362 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,366 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:23,468 [Lord_Voldemort_wrapper] INFO: STARTING STEP 75
+2019-03-20 08:47:23,469 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,471 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:23,568 [Lord_Voldemort_wrapper] INFO: STARTING STEP 76
+2019-03-20 08:47:23,568 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,569 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-20 08:47:23,668 [Lord_Voldemort_wrapper] INFO: STARTING STEP 77
+2019-03-20 08:47:23,668 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,669 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:23,774 [Lord_Voldemort_wrapper] INFO: STARTING STEP 78
+2019-03-20 08:47:23,774 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,775 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:23,875 [Lord_Voldemort_wrapper] INFO: STARTING STEP 79
+2019-03-20 08:47:23,875 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,877 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:23,976 [Lord_Voldemort_wrapper] INFO: STARTING STEP 80
+2019-03-20 08:47:23,976 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:23,978 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:24,079 [Lord_Voldemort_wrapper] INFO: STARTING STEP 81
+2019-03-20 08:47:24,079 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,080 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:24,181 [Lord_Voldemort_wrapper] INFO: STARTING STEP 82
+2019-03-20 08:47:24,181 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,184 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:24,284 [Lord_Voldemort_wrapper] INFO: STARTING STEP 83
+2019-03-20 08:47:24,284 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,292 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-20 08:47:24,384 [Lord_Voldemort_wrapper] INFO: STARTING STEP 84
+2019-03-20 08:47:24,385 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,390 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:24,488 [Lord_Voldemort_wrapper] INFO: STARTING STEP 85
+2019-03-20 08:47:24,489 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,494 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:24,587 [Lord_Voldemort_wrapper] INFO: STARTING STEP 86
+2019-03-20 08:47:24,588 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,594 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:24,689 [Lord_Voldemort_wrapper] INFO: STARTING STEP 87
+2019-03-20 08:47:24,690 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,692 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:24,790 [Lord_Voldemort_wrapper] INFO: STARTING STEP 88
+2019-03-20 08:47:24,791 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,799 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:24,892 [Lord_Voldemort_wrapper] INFO: STARTING STEP 89
+2019-03-20 08:47:24,893 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:24,901 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:24,993 [Lord_Voldemort_wrapper] INFO: STARTING STEP 90
+2019-03-20 08:47:24,995 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,001 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:25,095 [Lord_Voldemort_wrapper] INFO: STARTING STEP 91
+2019-03-20 08:47:25,096 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,101 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:25,197 [Lord_Voldemort_wrapper] INFO: STARTING STEP 92
+2019-03-20 08:47:25,198 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,210 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-03-20 08:47:25,298 [Lord_Voldemort_wrapper] INFO: STARTING STEP 93
+2019-03-20 08:47:25,299 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,305 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:25,400 [Lord_Voldemort_wrapper] INFO: STARTING STEP 94
+2019-03-20 08:47:25,400 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,407 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:25,500 [Lord_Voldemort_wrapper] INFO: STARTING STEP 95
+2019-03-20 08:47:25,501 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,503 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:25,602 [Lord_Voldemort_wrapper] INFO: STARTING STEP 96
+2019-03-20 08:47:25,602 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,603 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:25,703 [Lord_Voldemort_wrapper] INFO: STARTING STEP 97
+2019-03-20 08:47:25,703 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,704 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:25,804 [Lord_Voldemort_wrapper] INFO: STARTING STEP 98
+2019-03-20 08:47:25,804 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,807 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:25,908 [Lord_Voldemort_wrapper] INFO: STARTING STEP 99
+2019-03-20 08:47:25,909 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:25,916 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:26,009 [Lord_Voldemort_wrapper] INFO: STARTING STEP 100
+2019-03-20 08:47:26,009 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,013 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.004s of thinking
+2019-03-20 08:47:26,112 [Lord_Voldemort_wrapper] INFO: STARTING STEP 101
+2019-03-20 08:47:26,112 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,117 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-03-20 08:47:26,212 [Lord_Voldemort_wrapper] INFO: STARTING STEP 102
+2019-03-20 08:47:26,212 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,216 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-20 08:47:26,314 [Lord_Voldemort_wrapper] INFO: STARTING STEP 103
+2019-03-20 08:47:26,316 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,320 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:26,416 [Lord_Voldemort_wrapper] INFO: STARTING STEP 104
+2019-03-20 08:47:26,417 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,426 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-20 08:47:26,518 [Lord_Voldemort_wrapper] INFO: STARTING STEP 105
+2019-03-20 08:47:26,518 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,524 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:26,618 [Lord_Voldemort_wrapper] INFO: STARTING STEP 106
+2019-03-20 08:47:26,618 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,625 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:26,731 [Lord_Voldemort_wrapper] INFO: STARTING STEP 107
+2019-03-20 08:47:26,731 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,733 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:26,837 [Lord_Voldemort_wrapper] INFO: STARTING STEP 108
+2019-03-20 08:47:26,838 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,841 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:26,934 [Lord_Voldemort_wrapper] INFO: STARTING STEP 109
+2019-03-20 08:47:26,934 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:26,944 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-20 08:47:27,036 [Lord_Voldemort_wrapper] INFO: STARTING STEP 110
+2019-03-20 08:47:27,037 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,041 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:27,137 [Lord_Voldemort_wrapper] INFO: STARTING STEP 111
+2019-03-20 08:47:27,137 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,143 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:27,238 [Lord_Voldemort_wrapper] INFO: STARTING STEP 112
+2019-03-20 08:47:27,239 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,241 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:27,339 [Lord_Voldemort_wrapper] INFO: STARTING STEP 113
+2019-03-20 08:47:27,339 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,346 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:27,440 [Lord_Voldemort_wrapper] INFO: STARTING STEP 114
+2019-03-20 08:47:27,441 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,444 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:27,542 [Lord_Voldemort_wrapper] INFO: STARTING STEP 115
+2019-03-20 08:47:27,542 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,547 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:27,642 [Lord_Voldemort_wrapper] INFO: STARTING STEP 116
+2019-03-20 08:47:27,642 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,653 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-20 08:47:27,744 [Lord_Voldemort_wrapper] INFO: STARTING STEP 117
+2019-03-20 08:47:27,745 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,750 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:27,845 [Lord_Voldemort_wrapper] INFO: STARTING STEP 118
+2019-03-20 08:47:27,846 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,850 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:27,958 [Lord_Voldemort_wrapper] INFO: STARTING STEP 119
+2019-03-20 08:47:27,958 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:27,961 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:28,064 [Lord_Voldemort_wrapper] INFO: STARTING STEP 120
+2019-03-20 08:47:28,064 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,069 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:28,162 [Lord_Voldemort_wrapper] INFO: STARTING STEP 121
+2019-03-20 08:47:28,163 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,166 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:28,262 [Lord_Voldemort_wrapper] INFO: STARTING STEP 122
+2019-03-20 08:47:28,263 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,270 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:28,364 [Lord_Voldemort_wrapper] INFO: STARTING STEP 123
+2019-03-20 08:47:28,366 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,371 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:28,467 [Lord_Voldemort_wrapper] INFO: STARTING STEP 124
+2019-03-20 08:47:28,468 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,474 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:28,567 [Lord_Voldemort_wrapper] INFO: STARTING STEP 125
+2019-03-20 08:47:28,567 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,570 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:28,670 [Lord_Voldemort_wrapper] INFO: STARTING STEP 126
+2019-03-20 08:47:28,670 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,676 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:28,770 [Lord_Voldemort_wrapper] INFO: STARTING STEP 127
+2019-03-20 08:47:28,771 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,778 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:28,882 [Lord_Voldemort_wrapper] INFO: STARTING STEP 128
+2019-03-20 08:47:28,883 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,885 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:28,985 [Lord_Voldemort_wrapper] INFO: STARTING STEP 129
+2019-03-20 08:47:28,985 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:28,990 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:29,086 [Lord_Voldemort_wrapper] INFO: STARTING STEP 130
+2019-03-20 08:47:29,087 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,091 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-03-20 08:47:29,189 [Lord_Voldemort_wrapper] INFO: STARTING STEP 131
+2019-03-20 08:47:29,189 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,192 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:29,289 [Lord_Voldemort_wrapper] INFO: STARTING STEP 132
+2019-03-20 08:47:29,291 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,296 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:29,392 [Lord_Voldemort_wrapper] INFO: STARTING STEP 133
+2019-03-20 08:47:29,393 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,401 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:29,493 [Lord_Voldemort_wrapper] INFO: STARTING STEP 134
+2019-03-20 08:47:29,493 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,498 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:29,596 [Lord_Voldemort_wrapper] INFO: STARTING STEP 135
+2019-03-20 08:47:29,597 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,600 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:29,703 [Lord_Voldemort_wrapper] INFO: STARTING STEP 136
+2019-03-20 08:47:29,704 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,708 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:29,809 [Lord_Voldemort_wrapper] INFO: STARTING STEP 137
+2019-03-20 08:47:29,810 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,812 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:29,915 [Lord_Voldemort_wrapper] INFO: STARTING STEP 138
+2019-03-20 08:47:29,916 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:29,923 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:30,018 [Lord_Voldemort_wrapper] INFO: STARTING STEP 139
+2019-03-20 08:47:30,018 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,024 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:30,117 [Lord_Voldemort_wrapper] INFO: STARTING STEP 140
+2019-03-20 08:47:30,118 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,123 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:30,219 [Lord_Voldemort_wrapper] INFO: STARTING STEP 141
+2019-03-20 08:47:30,219 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,224 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:30,321 [Lord_Voldemort_wrapper] INFO: STARTING STEP 142
+2019-03-20 08:47:30,322 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,326 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:30,423 [Lord_Voldemort_wrapper] INFO: STARTING STEP 143
+2019-03-20 08:47:30,425 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,429 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:30,525 [Lord_Voldemort_wrapper] INFO: STARTING STEP 144
+2019-03-20 08:47:30,526 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,529 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:30,627 [Lord_Voldemort_wrapper] INFO: STARTING STEP 145
+2019-03-20 08:47:30,627 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,634 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:30,728 [Lord_Voldemort_wrapper] INFO: STARTING STEP 146
+2019-03-20 08:47:30,728 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,732 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:30,840 [Lord_Voldemort_wrapper] INFO: STARTING STEP 147
+2019-03-20 08:47:30,840 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,847 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:30,947 [Lord_Voldemort_wrapper] INFO: STARTING STEP 148
+2019-03-20 08:47:30,947 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:30,951 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:31,043 [Lord_Voldemort_wrapper] INFO: STARTING STEP 149
+2019-03-20 08:47:31,043 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,048 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:31,144 [Lord_Voldemort_wrapper] INFO: STARTING STEP 150
+2019-03-20 08:47:31,144 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,150 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:31,245 [Lord_Voldemort_wrapper] INFO: STARTING STEP 151
+2019-03-20 08:47:31,245 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,248 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:31,345 [Lord_Voldemort_wrapper] INFO: STARTING STEP 152
+2019-03-20 08:47:31,347 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,352 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:31,449 [Lord_Voldemort_wrapper] INFO: STARTING STEP 153
+2019-03-20 08:47:31,449 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,456 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:31,549 [Lord_Voldemort_wrapper] INFO: STARTING STEP 154
+2019-03-20 08:47:31,551 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,555 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:31,662 [Lord_Voldemort_wrapper] INFO: STARTING STEP 155
+2019-03-20 08:47:31,662 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,666 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:31,759 [Lord_Voldemort_wrapper] INFO: STARTING STEP 156
+2019-03-20 08:47:31,760 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,765 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:31,861 [Lord_Voldemort_wrapper] INFO: STARTING STEP 157
+2019-03-20 08:47:31,861 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,864 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-20 08:47:31,963 [Lord_Voldemort_wrapper] INFO: STARTING STEP 158
+2019-03-20 08:47:31,963 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:31,964 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:32,062 [Lord_Voldemort_wrapper] INFO: STARTING STEP 159
+2019-03-20 08:47:32,064 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,071 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:32,165 [Lord_Voldemort_wrapper] INFO: STARTING STEP 160
+2019-03-20 08:47:32,166 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,171 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:32,266 [Lord_Voldemort_wrapper] INFO: STARTING STEP 161
+2019-03-20 08:47:32,266 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,270 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:32,384 [Lord_Voldemort_wrapper] INFO: STARTING STEP 162
+2019-03-20 08:47:32,384 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,388 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:32,478 [Lord_Voldemort_wrapper] INFO: STARTING STEP 163
+2019-03-20 08:47:32,479 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,481 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:32,578 [Lord_Voldemort_wrapper] INFO: STARTING STEP 164
+2019-03-20 08:47:32,579 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,584 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:32,681 [Lord_Voldemort_wrapper] INFO: STARTING STEP 165
+2019-03-20 08:47:32,681 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,683 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:32,782 [Lord_Voldemort_wrapper] INFO: STARTING STEP 166
+2019-03-20 08:47:32,783 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,788 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:32,884 [Lord_Voldemort_wrapper] INFO: STARTING STEP 167
+2019-03-20 08:47:32,884 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,889 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:32,987 [Lord_Voldemort_wrapper] INFO: STARTING STEP 168
+2019-03-20 08:47:32,988 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:32,991 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:33,099 [Lord_Voldemort_wrapper] INFO: STARTING STEP 169
+2019-03-20 08:47:33,099 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,106 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-20 08:47:33,199 [Lord_Voldemort_wrapper] INFO: STARTING STEP 170
+2019-03-20 08:47:33,199 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,204 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:33,300 [Lord_Voldemort_wrapper] INFO: STARTING STEP 171
+2019-03-20 08:47:33,301 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,304 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:33,402 [Lord_Voldemort_wrapper] INFO: STARTING STEP 172
+2019-03-20 08:47:33,402 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,406 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:33,504 [Lord_Voldemort_wrapper] INFO: STARTING STEP 173
+2019-03-20 08:47:33,504 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,508 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:33,606 [Lord_Voldemort_wrapper] INFO: STARTING STEP 174
+2019-03-20 08:47:33,607 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,617 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:33,707 [Lord_Voldemort_wrapper] INFO: STARTING STEP 175
+2019-03-20 08:47:33,707 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,711 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:33,819 [Lord_Voldemort_wrapper] INFO: STARTING STEP 176
+2019-03-20 08:47:33,819 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,824 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:33,925 [Lord_Voldemort_wrapper] INFO: STARTING STEP 177
+2019-03-20 08:47:33,925 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:33,929 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:34,021 [Lord_Voldemort_wrapper] INFO: STARTING STEP 178
+2019-03-20 08:47:34,023 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,027 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:34,123 [Lord_Voldemort_wrapper] INFO: STARTING STEP 179
+2019-03-20 08:47:34,124 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,127 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:34,226 [Lord_Voldemort_wrapper] INFO: STARTING STEP 180
+2019-03-20 08:47:34,226 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,236 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:34,325 [Lord_Voldemort_wrapper] INFO: STARTING STEP 181
+2019-03-20 08:47:34,325 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,331 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:34,426 [Lord_Voldemort_wrapper] INFO: STARTING STEP 182
+2019-03-20 08:47:34,427 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,433 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:34,528 [Lord_Voldemort_wrapper] INFO: STARTING STEP 183
+2019-03-20 08:47:34,529 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,533 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:34,629 [Lord_Voldemort_wrapper] INFO: STARTING STEP 184
+2019-03-20 08:47:34,630 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,634 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:34,741 [Lord_Voldemort_wrapper] INFO: STARTING STEP 185
+2019-03-20 08:47:34,741 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,743 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:34,848 [Lord_Voldemort_wrapper] INFO: STARTING STEP 186
+2019-03-20 08:47:34,849 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,854 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:34,948 [Lord_Voldemort_wrapper] INFO: STARTING STEP 187
+2019-03-20 08:47:34,949 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:34,958 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:35,048 [Lord_Voldemort_wrapper] INFO: STARTING STEP 188
+2019-03-20 08:47:35,048 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,050 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:35,149 [Lord_Voldemort_wrapper] INFO: STARTING STEP 189
+2019-03-20 08:47:35,150 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,152 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:35,251 [Lord_Voldemort_wrapper] INFO: STARTING STEP 190
+2019-03-20 08:47:35,252 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,253 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:35,353 [Lord_Voldemort_wrapper] INFO: STARTING STEP 191
+2019-03-20 08:47:35,353 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,354 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:35,454 [Lord_Voldemort_wrapper] INFO: STARTING STEP 192
+2019-03-20 08:47:35,454 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,456 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:35,554 [Lord_Voldemort_wrapper] INFO: STARTING STEP 193
+2019-03-20 08:47:35,554 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,555 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:35,656 [Lord_Voldemort_wrapper] INFO: STARTING STEP 194
+2019-03-20 08:47:35,656 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,657 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:35,758 [Lord_Voldemort_wrapper] INFO: STARTING STEP 195
+2019-03-20 08:47:35,758 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,759 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:35,859 [Lord_Voldemort_wrapper] INFO: STARTING STEP 196
+2019-03-20 08:47:35,859 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,860 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:35,960 [Lord_Voldemort_wrapper] INFO: STARTING STEP 197
+2019-03-20 08:47:35,960 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:35,960 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:36,061 [Lord_Voldemort_wrapper] INFO: STARTING STEP 198
+2019-03-20 08:47:36,061 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,062 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:36,162 [Lord_Voldemort_wrapper] INFO: STARTING STEP 199
+2019-03-20 08:47:36,162 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,163 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:36,264 [Lord_Voldemort_wrapper] INFO: STARTING STEP 200
+2019-03-20 08:47:36,264 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,265 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:36,364 [Lord_Voldemort_wrapper] INFO: STARTING STEP 201
+2019-03-20 08:47:36,364 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,365 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:36,466 [Lord_Voldemort_wrapper] INFO: STARTING STEP 202
+2019-03-20 08:47:36,466 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,467 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:36,567 [Lord_Voldemort_wrapper] INFO: STARTING STEP 203
+2019-03-20 08:47:36,567 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,568 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:36,669 [Lord_Voldemort_wrapper] INFO: STARTING STEP 204
+2019-03-20 08:47:36,669 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,670 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:36,770 [Lord_Voldemort_wrapper] INFO: STARTING STEP 205
+2019-03-20 08:47:36,770 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,773 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:36,871 [Lord_Voldemort_wrapper] INFO: STARTING STEP 206
+2019-03-20 08:47:36,871 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,872 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:36,972 [Lord_Voldemort_wrapper] INFO: STARTING STEP 207
+2019-03-20 08:47:36,972 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:36,973 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:37,075 [Lord_Voldemort_wrapper] INFO: STARTING STEP 208
+2019-03-20 08:47:37,075 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,076 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:37,177 [Lord_Voldemort_wrapper] INFO: STARTING STEP 209
+2019-03-20 08:47:37,178 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,182 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:37,280 [Lord_Voldemort_wrapper] INFO: STARTING STEP 210
+2019-03-20 08:47:37,280 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,280 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:37,382 [Lord_Voldemort_wrapper] INFO: STARTING STEP 211
+2019-03-20 08:47:37,382 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,387 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:37,484 [Lord_Voldemort_wrapper] INFO: STARTING STEP 212
+2019-03-20 08:47:37,485 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,489 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:37,584 [Lord_Voldemort_wrapper] INFO: STARTING STEP 213
+2019-03-20 08:47:37,585 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,590 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:37,696 [Lord_Voldemort_wrapper] INFO: STARTING STEP 214
+2019-03-20 08:47:37,697 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,700 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:37,802 [Lord_Voldemort_wrapper] INFO: STARTING STEP 215
+2019-03-20 08:47:37,803 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,806 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:37,899 [Lord_Voldemort_wrapper] INFO: STARTING STEP 216
+2019-03-20 08:47:37,900 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:37,901 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:38,000 [Lord_Voldemort_wrapper] INFO: STARTING STEP 217
+2019-03-20 08:47:38,000 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,006 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:38,101 [Lord_Voldemort_wrapper] INFO: STARTING STEP 218
+2019-03-20 08:47:38,101 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,106 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:38,202 [Lord_Voldemort_wrapper] INFO: STARTING STEP 219
+2019-03-20 08:47:38,204 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,208 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:38,304 [Lord_Voldemort_wrapper] INFO: STARTING STEP 220
+2019-03-20 08:47:38,305 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,308 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:38,417 [Lord_Voldemort_wrapper] INFO: STARTING STEP 221
+2019-03-20 08:47:38,417 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,421 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:38,513 [Lord_Voldemort_wrapper] INFO: STARTING STEP 222
+2019-03-20 08:47:38,514 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,520 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:38,615 [Lord_Voldemort_wrapper] INFO: STARTING STEP 223
+2019-03-20 08:47:38,616 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,619 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:38,717 [Lord_Voldemort_wrapper] INFO: STARTING STEP 224
+2019-03-20 08:47:38,717 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,720 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:38,819 [Lord_Voldemort_wrapper] INFO: STARTING STEP 225
+2019-03-20 08:47:38,819 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,827 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:38,919 [Lord_Voldemort_wrapper] INFO: STARTING STEP 226
+2019-03-20 08:47:38,920 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:38,924 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:39,021 [Lord_Voldemort_wrapper] INFO: STARTING STEP 227
+2019-03-20 08:47:39,021 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,029 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:39,134 [Lord_Voldemort_wrapper] INFO: STARTING STEP 228
+2019-03-20 08:47:39,134 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,138 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:39,232 [Lord_Voldemort_wrapper] INFO: STARTING STEP 229
+2019-03-20 08:47:39,232 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,238 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:39,331 [Lord_Voldemort_wrapper] INFO: STARTING STEP 230
+2019-03-20 08:47:39,333 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,335 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:39,434 [Lord_Voldemort_wrapper] INFO: STARTING STEP 231
+2019-03-20 08:47:39,434 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,443 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-20 08:47:39,535 [Lord_Voldemort_wrapper] INFO: STARTING STEP 232
+2019-03-20 08:47:39,535 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,539 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:39,637 [Lord_Voldemort_wrapper] INFO: STARTING STEP 233
+2019-03-20 08:47:39,637 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,641 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:39,739 [Lord_Voldemort_wrapper] INFO: STARTING STEP 234
+2019-03-20 08:47:39,739 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,743 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:39,851 [Lord_Voldemort_wrapper] INFO: STARTING STEP 235
+2019-03-20 08:47:39,852 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,856 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:39,947 [Lord_Voldemort_wrapper] INFO: STARTING STEP 236
+2019-03-20 08:47:39,948 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:39,951 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-20 08:47:40,047 [Lord_Voldemort_wrapper] INFO: STARTING STEP 237
+2019-03-20 08:47:40,047 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,048 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:40,148 [Lord_Voldemort_wrapper] INFO: STARTING STEP 238
+2019-03-20 08:47:40,148 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,149 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:40,249 [Lord_Voldemort_wrapper] INFO: STARTING STEP 239
+2019-03-20 08:47:40,249 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,250 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:40,351 [Lord_Voldemort_wrapper] INFO: STARTING STEP 240
+2019-03-20 08:47:40,351 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,353 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:40,452 [Lord_Voldemort_wrapper] INFO: STARTING STEP 241
+2019-03-20 08:47:40,452 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,453 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:40,553 [Lord_Voldemort_wrapper] INFO: STARTING STEP 242
+2019-03-20 08:47:40,553 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,555 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:40,655 [Lord_Voldemort_wrapper] INFO: STARTING STEP 243
+2019-03-20 08:47:40,655 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,655 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:40,756 [Lord_Voldemort_wrapper] INFO: STARTING STEP 244
+2019-03-20 08:47:40,756 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,759 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:40,871 [Lord_Voldemort_wrapper] INFO: STARTING STEP 245
+2019-03-20 08:47:40,872 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,875 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:40,966 [Lord_Voldemort_wrapper] INFO: STARTING STEP 246
+2019-03-20 08:47:40,967 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:40,970 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:41,067 [Lord_Voldemort_wrapper] INFO: STARTING STEP 247
+2019-03-20 08:47:41,068 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,072 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:41,169 [Lord_Voldemort_wrapper] INFO: STARTING STEP 248
+2019-03-20 08:47:41,170 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,173 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:41,271 [Lord_Voldemort_wrapper] INFO: STARTING STEP 249
+2019-03-20 08:47:41,272 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,280 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-20 08:47:41,372 [Lord_Voldemort_wrapper] INFO: STARTING STEP 250
+2019-03-20 08:47:41,373 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,378 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:41,474 [Lord_Voldemort_wrapper] INFO: STARTING STEP 251
+2019-03-20 08:47:41,474 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,480 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:41,591 [Lord_Voldemort_wrapper] INFO: STARTING STEP 252
+2019-03-20 08:47:41,593 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,596 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:41,683 [Lord_Voldemort_wrapper] INFO: STARTING STEP 253
+2019-03-20 08:47:41,685 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,688 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:41,785 [Lord_Voldemort_wrapper] INFO: STARTING STEP 254
+2019-03-20 08:47:41,787 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,787 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:41,888 [Lord_Voldemort_wrapper] INFO: STARTING STEP 255
+2019-03-20 08:47:41,888 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,893 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:41,988 [Lord_Voldemort_wrapper] INFO: STARTING STEP 256
+2019-03-20 08:47:41,988 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:41,993 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:42,089 [Lord_Voldemort_wrapper] INFO: STARTING STEP 257
+2019-03-20 08:47:42,090 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:42,092 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:42,192 [Lord_Voldemort_wrapper] INFO: STARTING STEP 258
+2019-03-20 08:47:42,192 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:42,196 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:42,298 [Lord_Voldemort_wrapper] INFO: STARTING STEP 259
+2019-03-20 08:47:42,298 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:42,302 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:42,402 [Lord_Voldemort_wrapper] INFO: STARTING STEP 260
+2019-03-20 08:47:42,402 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:42,403 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:42,500 [Lord_Voldemort_wrapper] INFO: STARTING STEP 261
+2019-03-20 08:47:42,501 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:42,502 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:42,603 [Lord_Voldemort_wrapper] INFO: STARTING STEP 262
+2019-03-20 08:47:42,603 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:42,604 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:42,710 [Lord_Voldemort_wrapper] INFO: Received exit message for round
+2019-03-20 08:47:42,710 [Lord_Voldemort_wrapper] INFO: Round #1 finished
+2019-03-20 08:47:48,499 [Lord_Voldemort_wrapper] INFO: STARTING ROUND #2
+2019-03-20 08:47:48,599 [Lord_Voldemort_wrapper] INFO: STARTING STEP 1
+2019-03-20 08:47:48,600 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:48,608 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-20 08:47:48,696 [Lord_Voldemort_wrapper] INFO: STARTING STEP 2
+2019-03-20 08:47:48,697 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:48,700 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:48,798 [Lord_Voldemort_wrapper] INFO: STARTING STEP 3
+2019-03-20 08:47:48,799 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:48,807 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:48,898 [Lord_Voldemort_wrapper] INFO: STARTING STEP 4
+2019-03-20 08:47:48,900 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:48,904 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:49,001 [Lord_Voldemort_wrapper] INFO: STARTING STEP 5
+2019-03-20 08:47:49,001 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,009 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:49,103 [Lord_Voldemort_wrapper] INFO: STARTING STEP 6
+2019-03-20 08:47:49,103 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,112 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:49,204 [Lord_Voldemort_wrapper] INFO: STARTING STEP 7
+2019-03-20 08:47:49,204 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,209 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:49,305 [Lord_Voldemort_wrapper] INFO: STARTING STEP 8
+2019-03-20 08:47:49,305 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,310 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:49,406 [Lord_Voldemort_wrapper] INFO: STARTING STEP 9
+2019-03-20 08:47:49,407 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,413 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:49,508 [Lord_Voldemort_wrapper] INFO: STARTING STEP 10
+2019-03-20 08:47:49,508 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,514 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:49,608 [Lord_Voldemort_wrapper] INFO: STARTING STEP 11
+2019-03-20 08:47:49,609 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,615 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-20 08:47:49,711 [Lord_Voldemort_wrapper] INFO: STARTING STEP 12
+2019-03-20 08:47:49,711 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,715 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-20 08:47:49,812 [Lord_Voldemort_wrapper] INFO: STARTING STEP 13
+2019-03-20 08:47:49,812 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,817 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:49,913 [Lord_Voldemort_wrapper] INFO: STARTING STEP 14
+2019-03-20 08:47:49,914 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:49,921 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:50,014 [Lord_Voldemort_wrapper] INFO: STARTING STEP 15
+2019-03-20 08:47:50,016 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,019 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:50,115 [Lord_Voldemort_wrapper] INFO: STARTING STEP 16
+2019-03-20 08:47:50,115 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,121 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:50,217 [Lord_Voldemort_wrapper] INFO: STARTING STEP 17
+2019-03-20 08:47:50,218 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,224 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:50,319 [Lord_Voldemort_wrapper] INFO: STARTING STEP 18
+2019-03-20 08:47:50,319 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,326 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-20 08:47:50,419 [Lord_Voldemort_wrapper] INFO: STARTING STEP 19
+2019-03-20 08:47:50,419 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,428 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-20 08:47:50,521 [Lord_Voldemort_wrapper] INFO: STARTING STEP 20
+2019-03-20 08:47:50,521 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,528 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:50,621 [Lord_Voldemort_wrapper] INFO: STARTING STEP 21
+2019-03-20 08:47:50,621 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,624 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:50,723 [Lord_Voldemort_wrapper] INFO: STARTING STEP 22
+2019-03-20 08:47:50,723 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,727 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:50,825 [Lord_Voldemort_wrapper] INFO: STARTING STEP 23
+2019-03-20 08:47:50,825 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,827 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:50,925 [Lord_Voldemort_wrapper] INFO: STARTING STEP 24
+2019-03-20 08:47:50,925 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:50,927 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:51,026 [Lord_Voldemort_wrapper] INFO: STARTING STEP 25
+2019-03-20 08:47:51,027 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,028 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:51,128 [Lord_Voldemort_wrapper] INFO: STARTING STEP 26
+2019-03-20 08:47:51,129 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,130 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-20 08:47:51,229 [Lord_Voldemort_wrapper] INFO: STARTING STEP 27
+2019-03-20 08:47:51,229 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,231 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:51,330 [Lord_Voldemort_wrapper] INFO: STARTING STEP 28
+2019-03-20 08:47:51,331 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,332 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:51,432 [Lord_Voldemort_wrapper] INFO: STARTING STEP 29
+2019-03-20 08:47:51,432 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,434 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:51,533 [Lord_Voldemort_wrapper] INFO: STARTING STEP 30
+2019-03-20 08:47:51,533 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,535 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:51,634 [Lord_Voldemort_wrapper] INFO: STARTING STEP 31
+2019-03-20 08:47:51,634 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,636 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:51,736 [Lord_Voldemort_wrapper] INFO: STARTING STEP 32
+2019-03-20 08:47:51,736 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,739 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:51,838 [Lord_Voldemort_wrapper] INFO: STARTING STEP 33
+2019-03-20 08:47:51,839 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,842 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:51,940 [Lord_Voldemort_wrapper] INFO: STARTING STEP 34
+2019-03-20 08:47:51,940 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:51,943 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-20 08:47:52,047 [Lord_Voldemort_wrapper] INFO: STARTING STEP 35
+2019-03-20 08:47:52,048 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,049 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-20 08:47:52,148 [Lord_Voldemort_wrapper] INFO: STARTING STEP 36
+2019-03-20 08:47:52,149 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,151 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:52,250 [Lord_Voldemort_wrapper] INFO: STARTING STEP 37
+2019-03-20 08:47:52,250 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,251 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:52,359 [Lord_Voldemort_wrapper] INFO: STARTING STEP 38
+2019-03-20 08:47:52,360 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,360 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:52,461 [Lord_Voldemort_wrapper] INFO: STARTING STEP 39
+2019-03-20 08:47:52,461 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,462 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:52,562 [Lord_Voldemort_wrapper] INFO: STARTING STEP 40
+2019-03-20 08:47:52,562 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,563 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:52,664 [Lord_Voldemort_wrapper] INFO: STARTING STEP 41
+2019-03-20 08:47:52,664 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,665 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-20 08:47:52,765 [Lord_Voldemort_wrapper] INFO: STARTING STEP 42
+2019-03-20 08:47:52,765 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,767 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:52,866 [Lord_Voldemort_wrapper] INFO: STARTING STEP 43
+2019-03-20 08:47:52,866 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,867 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-20 08:47:52,969 [Lord_Voldemort_wrapper] INFO: STARTING STEP 44
+2019-03-20 08:47:52,969 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:52,970 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-03-20 08:47:53,071 [Lord_Voldemort_wrapper] INFO: STARTING STEP 45
+2019-03-20 08:47:53,071 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,071 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.001s of thinking
+2019-03-20 08:47:53,172 [Lord_Voldemort_wrapper] INFO: STARTING STEP 46
+2019-03-20 08:47:53,172 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,173 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-20 08:47:53,274 [Lord_Voldemort_wrapper] INFO: STARTING STEP 47
+2019-03-20 08:47:53,274 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,278 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:53,376 [Lord_Voldemort_wrapper] INFO: STARTING STEP 48
+2019-03-20 08:47:53,376 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,378 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-20 08:47:53,479 [Lord_Voldemort_wrapper] INFO: STARTING STEP 49
+2019-03-20 08:47:53,480 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,484 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:53,581 [Lord_Voldemort_wrapper] INFO: STARTING STEP 50
+2019-03-20 08:47:53,581 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,591 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-20 08:47:53,681 [Lord_Voldemort_wrapper] INFO: STARTING STEP 51
+2019-03-20 08:47:53,682 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,689 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:53,783 [Lord_Voldemort_wrapper] INFO: STARTING STEP 52
+2019-03-20 08:47:53,783 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,788 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-20 08:47:53,885 [Lord_Voldemort_wrapper] INFO: STARTING STEP 53
+2019-03-20 08:47:53,886 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,892 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:53,986 [Lord_Voldemort_wrapper] INFO: STARTING STEP 54
+2019-03-20 08:47:53,987 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:53,989 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:54,089 [Lord_Voldemort_wrapper] INFO: STARTING STEP 55
+2019-03-20 08:47:54,089 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,094 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-20 08:47:54,191 [Lord_Voldemort_wrapper] INFO: STARTING STEP 56
+2019-03-20 08:47:54,191 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,198 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:54,292 [Lord_Voldemort_wrapper] INFO: STARTING STEP 57
+2019-03-20 08:47:54,292 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,300 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:54,395 [Lord_Voldemort_wrapper] INFO: STARTING STEP 58
+2019-03-20 08:47:54,396 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,401 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-20 08:47:54,496 [Lord_Voldemort_wrapper] INFO: STARTING STEP 59
+2019-03-20 08:47:54,497 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,504 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-20 08:47:54,598 [Lord_Voldemort_wrapper] INFO: STARTING STEP 60
+2019-03-20 08:47:54,598 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,602 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-20 08:47:54,700 [Lord_Voldemort_wrapper] INFO: STARTING STEP 61
+2019-03-20 08:47:54,701 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,711 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-20 08:47:54,800 [Lord_Voldemort_wrapper] INFO: STARTING STEP 62
+2019-03-20 08:47:54,801 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,807 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-20 08:47:54,901 [Lord_Voldemort_wrapper] INFO: STARTING STEP 63
+2019-03-20 08:47:54,902 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:54,912 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.010s of thinking
+2019-03-20 08:47:55,003 [Lord_Voldemort_wrapper] INFO: STARTING STEP 64
+2019-03-20 08:47:55,004 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,018 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-03-20 08:47:55,105 [Lord_Voldemort_wrapper] INFO: STARTING STEP 65
+2019-03-20 08:47:55,106 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,113 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:55,206 [Lord_Voldemort_wrapper] INFO: STARTING STEP 66
+2019-03-20 08:47:55,207 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,215 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-20 08:47:55,306 [Lord_Voldemort_wrapper] INFO: STARTING STEP 67
+2019-03-20 08:47:55,306 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,308 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:55,413 [Lord_Voldemort_wrapper] INFO: STARTING STEP 68
+2019-03-20 08:47:55,414 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,418 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:55,516 [Lord_Voldemort_wrapper] INFO: STARTING STEP 69
+2019-03-20 08:47:55,517 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,520 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:55,616 [Lord_Voldemort_wrapper] INFO: STARTING STEP 70
+2019-03-20 08:47:55,617 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,625 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-20 08:47:55,719 [Lord_Voldemort_wrapper] INFO: STARTING STEP 71
+2019-03-20 08:47:55,720 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,725 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-20 08:47:55,820 [Lord_Voldemort_wrapper] INFO: STARTING STEP 72
+2019-03-20 08:47:55,821 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,824 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-20 08:47:55,921 [Lord_Voldemort_wrapper] INFO: STARTING STEP 73
+2019-03-20 08:47:55,921 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:55,928 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-20 08:47:56,023 [Lord_Voldemort_wrapper] INFO: STARTING STEP 74
+2019-03-20 08:47:56,024 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,028 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-20 08:47:56,125 [Lord_Voldemort_wrapper] INFO: STARTING STEP 75
+2019-03-20 08:47:56,126 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,129 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:56,225 [Lord_Voldemort_wrapper] INFO: STARTING STEP 76
+2019-03-20 08:47:56,225 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,227 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-20 08:47:56,334 [Lord_Voldemort_wrapper] INFO: STARTING STEP 77
+2019-03-20 08:47:56,335 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,341 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-20 08:47:56,439 [Lord_Voldemort_wrapper] INFO: STARTING STEP 78
+2019-03-20 08:47:56,439 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,441 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:56,535 [Lord_Voldemort_wrapper] INFO: STARTING STEP 79
+2019-03-20 08:47:56,536 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,538 [Lord_Voldemort_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-20 08:47:56,637 [Lord_Voldemort_wrapper] INFO: STARTING STEP 80
+2019-03-20 08:47:56,637 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,641 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-20 08:47:56,740 [Lord_Voldemort_wrapper] INFO: STARTING STEP 81
+2019-03-20 08:47:56,740 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,745 [Lord_Voldemort_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-20 08:47:56,842 [Lord_Voldemort_wrapper] INFO: STARTING STEP 82
+2019-03-20 08:47:56,842 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,858 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-20 08:47:56,942 [Lord_Voldemort_wrapper] INFO: STARTING STEP 83
+2019-03-20 08:47:56,942 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:56,944 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-20 08:47:57,047 [Lord_Voldemort_wrapper] INFO: STARTING STEP 84
+2019-03-20 08:47:57,048 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,056 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:57,148 [Lord_Voldemort_wrapper] INFO: STARTING STEP 85
+2019-03-20 08:47:57,149 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,156 [Lord_Voldemort_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-20 08:47:57,250 [Lord_Voldemort_wrapper] INFO: STARTING STEP 86
+2019-03-20 08:47:57,250 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,255 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-20 08:47:57,350 [Lord_Voldemort_wrapper] INFO: STARTING STEP 87
+2019-03-20 08:47:57,350 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,357 [Lord_Voldemort_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-20 08:47:57,452 [Lord_Voldemort_wrapper] INFO: STARTING STEP 88
+2019-03-20 08:47:57,454 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,458 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-20 08:47:57,554 [Lord_Voldemort_wrapper] INFO: STARTING STEP 89
+2019-03-20 08:47:57,554 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,559 [Lord_Voldemort_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-03-20 08:47:57,656 [Lord_Voldemort_wrapper] INFO: STARTING STEP 90
+2019-03-20 08:47:57,657 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,660 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-20 08:47:57,757 [Lord_Voldemort_wrapper] INFO: STARTING STEP 91
+2019-03-20 08:47:57,758 [Lord_Voldemort_code] INFO: Pick action according to pressed key
+2019-03-20 08:47:57,761 [Lord_Voldemort_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-20 08:47:57,808 [Lord_Voldemort_wrapper] INFO: Received exit message for round
+2019-03-20 08:47:57,809 [Lord_Voldemort_wrapper] INFO: Round #2 finished
+2019-03-20 08:48:08,491 [Lord_Voldemort_wrapper] INFO: Received global exit message
+2019-03-20 08:48:08,491 [Lord_Voldemort_wrapper] INFO: SHUT DOWN

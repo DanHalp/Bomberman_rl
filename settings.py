@@ -20,7 +20,6 @@ settings = {
     'make_video_from_replay': False,
 
     # Game properties
-
     'cols': 17,
     'rows': 17,
     'grid_size': 30,

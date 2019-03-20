@@ -1,4 +1,4 @@
-import sys
+
 from time import time, sleep
 import os, signal
 from types import SimpleNamespace
@@ -55,6 +55,9 @@ class AgentProcess(mp.Process):
         self.wlogger.info(f'Import agent code from "agent_code/{self.agent_dir}/callbacks.py"')
         self.code = importlib.import_module('agent_code.' + self.agent_dir + '.callbacks')
 
+        # Make agent directory the working directory for this process
+        os.chdir(f'agent_code/{self.agent_dir}/')
+
         # Initialize custom code
         self.wlogger.info('Initialize agent code')
         try:
@@ -90,13 +93,11 @@ class AgentProcess(mp.Process):
                     self.wlogger.debug('Receive event queue')
                     self.fake_self.events = self.pipe_to_world.recv()
                     self.wlogger.debug(f'Received event queue {self.fake_self.events}')
-                    self.wlogger.info('Process intermediate rewards')
                     try:
-                        self.code.reward_update(self.fake_self)
+                        if self.fake_self.game_state['step'] > 1:
+                            self.wlogger.info('Process intermediate rewards')
+                            self.code.reward_update(self.fake_self)
                     except Exception as e:
-                        exc_type, exc_obj, exc_tb = sys.exc_info()
-                        fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
-                        print("Reward_update: ", e, exc_type, fname, exc_tb.tb_lineno)
                         self.wlogger.exception(f'Error in callback function: {e}')
                     self.wlogger.debug('Set flag to indicate readiness')
                     self.ready_flag.set()
@@ -110,8 +111,6 @@ class AgentProcess(mp.Process):
                 except KeyboardInterrupt:
                     self.wlogger.warn(f'Got interrupted by timeout')
                 except Exception as e:
-                    # Todo:::: Remove print
-                    print("act:", e)
                     self.wlogger.exception(f'Error in callback function: {e}')
 
                 # Send action and time taken back to main process
@@ -198,7 +197,7 @@ class Agent(object):
 
     def get_state(self):
         """Provide information about this agent for the global game state."""
-        return (self.x, self.y, self.name, self.bombs_left)
+        return (self.x, self.y, self.name, self.bombs_left, self.score)
 
     def update_score(self, delta):
         """Add delta to both the current round's score and the total score."""
@@ -228,15 +227,16 @@ class ReplayAgent(Agent):
         self.x, self.y = x, y
         self.color = color
 
-        # Load custom avatar or standard robot avatar of assigned color
+        # Load standard robot avatar of assigned color
         self.avatar = pygame.image.load(f'assets/robot_{self.color}.png')
+        self.bomb_sprite = None
         # Prepare overlay that will indicate dead agent on the scoreboard
         self.shade = pygame.Surface((30,30), SRCALPHA)
         self.shade.fill((0,0,0,208))
 
         self.total_score = 0
-        self.bomb_timer = s.bomb_timer
-        self.explosion_timer = s.explosion_timer
+        self.bomb_timer = s.bomb_timer + 1
+        self.explosion_timer = s.explosion_timer + 1
         self.bomb_power = s.bomb_power
         self.bomb_type = Bomb
 
