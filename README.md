@@ -5,3 +5,6 @@ The agent follows a naive Q-learning methodology, yet beating a variety of Deep-
 ## Tournament Website 
 `https://hci.iwr.uni-heidelberg.de/vislearn/HTML/teaching/courses/FML/bomberman_rl/match.php?id=Final`
 
+![plot](https://github.com/DanHalp/Bomberman_rl/blob/master/Bomberman%20Board.png)
+
+
